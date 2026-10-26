@@ -55,7 +55,7 @@ PAGE = """<!doctype html>
   <p class="note">You need a keyboard and mouse to play: these are DOS games and won't work on phones or tablets.</p>
   <p>Games I wrote as a kid in DIV Game Studio (DOS) between summer 2004 and spring 2007, when I was 14 to 16, rewritten in Godot to play in the browser.</p>
   <p>My two brothers and I often played together, all three of us on one PC with one keyboard, and you can see it in the games: many of them are for two, three or four players sharing a single keyboard.</p>
-  <p>Claude rewrote every game in Godot from my original DIV code, which is written in DIV's own Pascal-like language. I played them and checked that they are true to the originals, and the original code is linked under every game.</p>
+  <p>Claude rewrote every game in Godot from my original DIV code, which is written in DIV's own Pascal-like language. I played them and checked that they are true to the originals, and the original code is linked under every game. The Godot projects, my original DIV files and this website are all on <a href="https://github.com/Olesch/DIV-Games-Remakes">GitHub</a>.</p>
   <p>Some games also got an options screen from Claude for settings that were hard-coded in the original. I really didn't feel motivated to go back to programming in DIV: looking back, it is really clunky.</p>
   <p>Most of the facts under each game were written by Claude, from what it found in the code while porting; the ones about where a game came from are mine. A blue line under each game lists what the Godot version changes.</p>
 {nav}
@@ -63,7 +63,7 @@ PAGE = """<!doctype html>
     <img src="img/div-games-studio.png" alt="DIV Game Studio in DOSBox: menus at the top, the graphics list of SIEGE.FPG on the left and the source code of SIEGE.PRG in a blue editor window on the right" width="1022" height="792">
     <figcaption>{div_caption}</figcaption>
   </figure>
-  <p>If you stumbled upon this page by accident and also want to port your own DIV games to the web, feel free to use the <a href="src/DIV_PORTING_GUIDE.txt">DIV to Godot porting guide</a> Claude worked from.</p>
+  <p>If you stumbled upon this page by accident and also want to port your own DIV games to the web, feel free to use the <a href="src/DIV_PORTING_GUIDE.txt">DIV to Godot porting guide</a> Claude worked from. The converter for DIV graphics and fonts and everything else is in the <a href="https://github.com/Olesch/DIV-Games-Remakes">GitHub</a> repository.</p>
 {sections}
   <p class="small">Needs a desktop browser with mouse and keyboard.</p>
 </main>
