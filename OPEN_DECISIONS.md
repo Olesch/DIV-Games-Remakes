@@ -2,7 +2,7 @@
 
 All 35 games are live on https://olesch-div-games.pages.dev/. This file records every question about the ports, your decision, and what has been done.
 
-**Status words:** **Live** = on the website. **Done, not live** = changed in the Godot project but not exported and deployed yet. **Kept** = nothing changed, by your decision.
+**Status words:** **Live** = on the website. **Kept** = nothing changed, by your decision.
 
 ---
 
@@ -12,8 +12,6 @@ All 35 games are live on https://olesch-div-games.pages.dev/. This file records 
 |---|----------|-----|
 | 9 | **Minicosm:** the original really can overfill a cannon by one invisible round (see point 9). Fix or keep? | Kept, same as the original |
 | N | **Panzers:** a tank can drive off the screen, where shells can't reach it, so a player can hide and never lose. Keep tanks on screen? | Unchanged; tanks can leave the screen |
-| – | **Deploy:** the changes below marked "Done, not live" | Waiting for your go |
-| – | **Git repo:** your PRG files contain a friend's full name (the website hides it). Decide before ever pushing the repo publicly. | Repo is local only |
 
 ---
 
@@ -28,7 +26,7 @@ All 35 games are live on https://olesch-div-games.pages.dev/. This file records 
 3. **WormBattleWarriors: rules I invented** for your unfinished original: Space ends the turn, you attack by moving into an enemy (damage values are guesses), you win when the other side has no worms left.
    - **Decision (2026-10-26):** the rules are OK. **Status:** Kept.
 4. **Heatfighter.**
-   - a) **Speed:** the original asks for 100 ticks per second. **Decision (2026-10-26):** 60. **Status:** Done, not live: the game now runs at 60 ticks per second, so everything moves at 60% of the original speed while timing stays frame-exact. A full computer-vs-computer match to K.O. ran without errors.
+   - a) **Speed:** the original asks for 100 ticks per second. **Decision (2026-10-26):** 60. **Status:** Live (2026-10-26): the game now runs at 60 ticks per second, so everything moves at 60% of the original speed while timing stays frame-exact. A full computer-vs-computer match to K.O. ran without errors.
    - b) **Added setup screen and K.O.** (characters, human or computer, K.O. at life 0, rematch). **Decision:** OK. **Status:** Live.
    - c) **Template's missing frames:** the "Template" character turns invisible during its special and duck attack. **Decision:** keep the original. **Status:** Kept.
 
@@ -38,7 +36,7 @@ All 35 games are live on https://olesch-div-games.pages.dev/. This file records 
    - **Decision (2026-10-26):** keep all. **Status:** Kept.
 6. **Ship Duel (MINI1):** a) the fast-fire setting does nothing; b) the explosive shot never costs mana; c) End is both P1's explosive shot and P3's turn-left; d) labels of settings rows 10 and 11 swapped; e) settings can go to zero or negative.
    - **Decision (2026-10-26):** a, b, e keep; c and d fix. Plus a new bug you found: shots got stuck in other players' shields, which never happened in the original.
-   - **Status:** Done, not live:
+   - **Status:** Live (2026-10-26):
      - **Shields:** in the original a shot touching a shield turns around once and moves back 6 px (MINI1.PRG lines 286–288). The port checked the shield with the previous frame's positions, so it kept seeing the shield and flipped the shot back and forth forever. It now checks at the shot's new position; a test shot bounces off once and flies away.
      - **c)** Player 1's explosion shot moved to the **Down arrow** (and keypad 2); player 3 keeps End. The help text on the settings screen says so.
      - **d)** Row 10 is now "Eigenzerstoerung Schiffe" (whether a ship's own shots hurt it), row 11 "Eigenzerstoerung Schuesse" (whether a ship's shots destroy each other).
@@ -46,7 +44,7 @@ All 35 games are live on https://olesch-div-games.pages.dev/. This file records 
    - **Decision (2026-10-26):** keep. **Status:** Kept.
 8. **Castle:** a) the Ork hero shoots invisible arrows; b) opening a door with a key still blocks that step; c) picking up dropped arrows can erase a neighbouring object (your comment says "Arrows appear twice"); d) save slot 4 is in an older format and shows as empty.
    - **Decision (2026-10-26):** keep all; c) also as a fact on the site.
-   - **Status:** Kept. The arrow bug is the 4th fact under Castle (the landing page now allows more than 3 facts): done, not live.
+   - **Status:** Kept. The arrow bug is the 4th fact under Castle (the landing page now allows more than 3 facts): live (2026-10-26).
 9. **Minicosm: ammo above the maximum.**
    - **Your note (2026-10-26):** you couldn't reproduce it in the original.
    - **Re-checked (2026-10-26):** the original does it, but it can't be seen, and only by one round. The reload checks `Munition<Max` once, waits about 2.7 s, then adds a round without checking again (MINICOSM.PRG lines 320–323). If you buy the atom bomb during that wait, it fills the cannons and the waiting reload still adds one. The lights never draw above the maximum, so the extra round only shows as a shot that doesn't put a light out. To try it: fire one left shot, buy the atom within ~2.7 s, wait for the reload, and you get three shots from a 2-round cannon.
@@ -94,23 +92,23 @@ In every new options screen the defaults play exactly like the version before. V
 
 | # | Game | Decision | Status |
 |---|------|----------|--------|
-| A | **Thursday Panzers** | Do | **Done, not live.** Setup screen before each match: tanks per team (22 / 28), player and computer tank life, damage and speed for each team (300/10/40 and 200/5/30), and a reinforcements mode from your commented-out code (a new tank for each team every second, stops once a team has won). Keyboard for both players and mouse. Esc in a match goes back to it. |
-| B | **PingPong** | Do | **Done, not live.** Options screen before each match: balls (2–200, default 70), ball speed (1–4, 6; default 4; also changes bats and release timing like `Activity` does), points to win (50–2000, default 500), classic one-ball mode from your commented-out loop, and human or computer for each bat from your unused `ki==2` AI. Esc, or Enter/Space after a win, goes back to it. |
+| A | **Thursday Panzers** | Do | **Live (2026-10-26).** Setup screen before each match: tanks per team (22 / 28), player and computer tank life, damage and speed for each team (300/10/40 and 200/5/30), and a reinforcements mode from your commented-out code (a new tank for each team every second, stops once a team has won). Keyboard for both players and mouse. Esc in a match goes back to it. |
+| B | **PingPong** | Do | **Live (2026-10-26).** Options screen before each match: balls (2–200, default 70), ball speed (1–4, 6; default 4; also changes bats and release timing like `Activity` does), points to win (50–2000, default 500), classic one-ball mode from your commented-out loop, and human or computer for each bat from your unused `ki==2` AI. Esc, or Enter/Space after a win, goes back to it. |
 | C | Tron | Don't | – |
-| D | **Siege** | Computer opponent only | **Done, not live.** New setup page: PL 1 and PL 2 can each be HUMAN or COMPUTER (default both human; both computer = a demo match). The computer is your commented-out `KI(player)` ported as written, with no fixes needed: every 24 frames (1.33 s) it sends a warrior 20 times out of 21, free of cost, and does nothing else, so it is easy to beat. A computer side has no cursor. Esc goes back to the setup page. |
+| D | **Siege** | Computer opponent only | **Live (2026-10-26).** New setup page: PL 1 and PL 2 can each be HUMAN or COMPUTER (default both human; both computer = a demo match). The computer is your commented-out `KI(player)` ported as written, with no fixes needed: every 24 frames (1.33 s) it sends a warrior 20 times out of 21, free of cost, and does nothing else, so it is easy to beat. A computer side has no cursor. Esc goes back to the setup page. |
 | E | Canonball Riding | Don't | – |
 | F | Huhnshot | Don't | – |
-| G | **Sniper** | Do | **Done, not live.** Options screen: snipers 1–21 (default 17; 18–21 use your commented-out positions), rifle / minigun / grenade-launcher snipers (minigun and grenade launcher built from your commented-out code; default rifles only), balloons 0.25–12 per second (default 1). The right button reloads miniguns and grenade launchers. Esc goes back to it. |
+| G | **Sniper** | Do | **Live (2026-10-26).** Options screen: snipers 1–21 (default 17; 18–21 use your commented-out positions), rifle / minigun / grenade-launcher snipers (minigun and grenade launcher built from your commented-out code; default rifles only), balloons 0.25–12 per second (default 1). The right button reloads miniguns and grenade launchers. Esc goes back to it. |
 | H | Ballkill | Don't | – |
 | I | Snake | Don't | – |
 | J | ~~Space~~ | Removed from the site (2026-10-24) | – |
 | K | Hatsch1 | Don't | – |
 | L | Runner | Don't | – |
-| M | **Fort** | Your separate call (2026-10-26): 10 times fewer enemies | **Done, not live.** One enemy pair every ~4.2 s instead of every ~0.4 s (100/24 s instead of the original's 10/24 s). Nothing else changed. |
-| N | **Panzers** | Do | **Done, not live.** Options screen that turns the sandbox into a duel: life OFF (sandbox, as before) or 1–100 hits (default 30), destroyed tanks become wrecks, "PLAYER n WINS" with Enter for a new round, camouflage on/off (default off). **Still open:** tanks can hide off screen (see top). |
+| M | **Fort** | Your separate call (2026-10-26): 10 times fewer enemies | **Live (2026-10-26).** One enemy pair every ~4.2 s instead of every ~0.4 s (100/24 s instead of the original's 10/24 s). Nothing else changed. |
+| N | **Panzers** | Do | **Live (2026-10-26).** Options screen that turns the sandbox into a duel: life OFF (sandbox, as before) or 1–100 hits (default 30), destroyed tanks become wrecks, "PLAYER n WINS" with Enter for a new round, camouflage on/off (default off). **Still open:** tanks can hide off screen (see top). |
 | O | GigaMaze | Don't | – |
-| P | **BunnyJumpers** | Do | **Done, not live.** Options screen for 0–50 extra bunnies (default 0). As in your commented-out loop they start at random spots, have no controls and just get in the way (your loop would have made 11, because `FROM 0 TO 10` counts both ends). Esc in the game goes back to it. |
-| Q | **Lommings** | Level select only | **Done, not live.** Level select with all 13 levels (900–911, 920, 950; level 900 is selected, so Enter plays as before), with a preview of each level. Play goes on from the chosen level in the original order. Esc goes back to it. No passwords. |
+| P | **BunnyJumpers** | Do | **Live (2026-10-26).** Options screen for 0–50 extra bunnies (default 0). As in your commented-out loop they start at random spots, have no controls and just get in the way (your loop would have made 11, because `FROM 0 TO 10` counts both ends). Esc in the game goes back to it. |
+| Q | **Lommings** | Level select only | **Live (2026-10-26).** Level select with all 13 levels (900–911, 920, 950; level 900 is selected, so Enter plays as before), with a preview of each level. Play goes on from the chosen level in the original order. Esc goes back to it. No passwords. |
 | R | Stranded | Don't | – |
 | S | WormBattleWarriors | Don't | – |
 | T | Heatfighter | Already had a setup screen | Speed changed to 60 instead (point 4a) |
@@ -150,7 +148,7 @@ Removed after porting: **Space** (the DIV asteroids tutorial, not your own game)
 
 36. **AntJumper:** a slip in the original's colour table made the ant draw one straight line instead of Langton's ant.
     - **Decision (2026-10-26):** fix it, make it Langton's.
-    - **Status:** Done, not live. The default is now Langton's ant (RL). Fixing the colour slip alone wasn't enough: the turn table also had to turn right on black. The straight line is still selectable as "Original's bug - straight line".
+    - **Status:** Live (2026-10-26). The default is now Langton's ant (RL). Fixing the colour slip alone wasn't enough: the turn table also had to turn right on black. The straight line is still selectable as "Original's bug - straight line".
 37. **Kochkurve:** key 2 draws the Sierpinski triangle again, because the Koch routine was never finished. **Decision:** no Koch curve. **Status:** Kept.
 38. **Castedit:** a tap moves one cell and repeat starts after 0.25 s (the original repeated from the first frame). **Decision:** keep. **Status:** Kept.
 39. **Mandelbrot:** draws in about 1.5 s; keypad +/- added as zoom keys. **Decision:** OK. **Status:** Kept.
@@ -162,5 +160,6 @@ Removed after porting: **Space** (the DIV asteroids tutorial, not your own game)
 ## Website
 
 - **2026-10-25 (live):** the landing page links this porting guide under the DIV Game Studio screenshot ("If you stumbled upon this page..."), and all texts say "DIV Game Studio".
-- **Done, not live:** the "Changed by Claude" lines of Heatfighter, Ship Duel, Fort, AntJumper, Thursday Panzers, PingPong, Sniper, Panzers, BunnyJumpers, Lommings and Siege, the 4th Castle fact, and updated descriptions for Sniper (right button reloads) and Panzers (now a duel).
+- **2026-10-26 (live):** the "Changed by Claude" lines of Heatfighter, Ship Duel, Fort, AntJumper, Thursday Panzers, PingPong, Sniper, Panzers, BunnyJumpers, Lommings and Siege, the 4th Castle fact, and updated descriptions for Sniper (right button reloads) and Panzers (now a duel).
 - **Rule (2026-10-26):** every change to a game is described in its "Changed by Claude" line.
+- **2026-10-26:** your friend's surname is shortened to "Lukas Schw." in RUNNER.PRG itself (also in the git history), so the site no longer needs to hide it.
