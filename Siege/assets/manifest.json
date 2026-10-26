@@ -1,0 +1,17 @@
+{
+ "prg": "SIEGE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "olegs\\siege.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/SIEGE.FPG",
+   "converted": "fpg/siege"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/SIEGE.FPG",
+ "system_font": "fnt/system"
+}

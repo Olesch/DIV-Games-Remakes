@@ -1,0 +1,4529 @@
+{
+ "type": "fpg",
+ "source": "SIEGE.FPG",
+ "format": 1,
+ "palette_rgb8": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   16,
+   16,
+   16
+  ],
+  [
+   32,
+   32,
+   32
+  ],
+  [
+   48,
+   48,
+   48
+  ],
+  [
+   65,
+   65,
+   65
+  ],
+  [
+   85,
+   85,
+   85
+  ],
+  [
+   101,
+   101,
+   101
+  ],
+  [
+   117,
+   117,
+   117
+  ],
+  [
+   134,
+   134,
+   134
+  ],
+  [
+   150,
+   150,
+   150
+  ],
+  [
+   170,
+   170,
+   170
+  ],
+  [
+   186,
+   186,
+   186
+  ],
+  [
+   203,
+   203,
+   203
+  ],
+  [
+   219,
+   219,
+   219
+  ],
+  [
+   235,
+   235,
+   235
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   40,
+   0,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   109,
+   0,
+   0
+  ],
+  [
+   146,
+   0,
+   0
+  ],
+  [
+   182,
+   0,
+   0
+  ],
+  [
+   219,
+   0,
+   0
+  ],
+  [
+   255,
+   0,
+   0
+  ],
+  [
+   255,
+   32,
+   0
+  ],
+  [
+   255,
+   65,
+   0
+  ],
+  [
+   255,
+   97,
+   0
+  ],
+  [
+   255,
+   130,
+   0
+  ],
+  [
+   255,
+   162,
+   0
+  ],
+  [
+   255,
+   182,
+   56
+  ],
+  [
+   255,
+   203,
+   113
+  ],
+  [
+   255,
+   223,
+   170
+  ],
+  [
+   255,
+   243,
+   227
+  ],
+  [
+   0,
+   40,
+   0
+  ],
+  [
+   0,
+   60,
+   0
+  ],
+  [
+   0,
+   85,
+   0
+  ],
+  [
+   0,
+   109,
+   0
+  ],
+  [
+   0,
+   134,
+   0
+  ],
+  [
+   0,
+   158,
+   0
+  ],
+  [
+   0,
+   182,
+   0
+  ],
+  [
+   0,
+   207,
+   0
+  ],
+  [
+   0,
+   231,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ],
+  [
+   48,
+   255,
+   32
+  ],
+  [
+   97,
+   255,
+   65
+  ],
+  [
+   146,
+   255,
+   97
+  ],
+  [
+   195,
+   255,
+   134
+  ],
+  [
+   219,
+   255,
+   178
+  ],
+  [
+   243,
+   255,
+   223
+  ],
+  [
+   0,
+   0,
+   40
+  ],
+  [
+   0,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   105
+  ],
+  [
+   0,
+   0,
+   142
+  ],
+  [
+   0,
+   0,
+   174
+  ],
+  [
+   0,
+   0,
+   211
+  ],
+  [
+   0,
+   0,
+   255
+  ],
+  [
+   0,
+   48,
+   255
+  ],
+  [
+   0,
+   101,
+   255
+  ],
+  [
+   0,
+   150,
+   255
+  ],
+  [
+   0,
+   203,
+   255
+  ],
+  [
+   0,
+   255,
+   255
+  ],
+  [
+   56,
+   255,
+   255
+  ],
+  [
+   113,
+   255,
+   255
+  ],
+  [
+   170,
+   255,
+   255
+  ],
+  [
+   227,
+   255,
+   255
+  ],
+  [
+   28,
+   28,
+   0
+  ],
+  [
+   52,
+   52,
+   0
+  ],
+  [
+   77,
+   77,
+   0
+  ],
+  [
+   101,
+   101,
+   0
+  ],
+  [
+   125,
+   125,
+   0
+  ],
+  [
+   154,
+   154,
+   0
+  ],
+  [
+   178,
+   178,
+   0
+  ],
+  [
+   203,
+   203,
+   0
+  ],
+  [
+   227,
+   227,
+   0
+  ],
+  [
+   255,
+   255,
+   0
+  ],
+  [
+   255,
+   255,
+   36
+  ],
+  [
+   255,
+   255,
+   73
+  ],
+  [
+   255,
+   255,
+   109
+  ],
+  [
+   255,
+   255,
+   146
+  ],
+  [
+   255,
+   255,
+   182
+  ],
+  [
+   255,
+   255,
+   223
+  ],
+  [
+   28,
+   0,
+   28
+  ],
+  [
+   52,
+   0,
+   52
+  ],
+  [
+   77,
+   0,
+   77
+  ],
+  [
+   101,
+   0,
+   101
+  ],
+  [
+   125,
+   0,
+   125
+  ],
+  [
+   154,
+   0,
+   154
+  ],
+  [
+   178,
+   0,
+   178
+  ],
+  [
+   203,
+   0,
+   203
+  ],
+  [
+   227,
+   0,
+   227
+  ],
+  [
+   255,
+   0,
+   255
+  ],
+  [
+   255,
+   36,
+   255
+  ],
+  [
+   255,
+   73,
+   255
+  ],
+  [
+   255,
+   113,
+   255
+  ],
+  [
+   255,
+   150,
+   255
+  ],
+  [
+   255,
+   186,
+   255
+  ],
+  [
+   255,
+   227,
+   255
+  ],
+  [
+   0,
+   20,
+   20
+  ],
+  [
+   0,
+   40,
+   40
+  ],
+  [
+   0,
+   60,
+   60
+  ],
+  [
+   0,
+   81,
+   81
+  ],
+  [
+   0,
+   105,
+   101
+  ],
+  [
+   0,
+   125,
+   121
+  ],
+  [
+   0,
+   146,
+   146
+  ],
+  [
+   0,
+   166,
+   166
+  ],
+  [
+   0,
+   190,
+   186
+  ],
+  [
+   0,
+   211,
+   207
+  ],
+  [
+   0,
+   231,
+   227
+  ],
+  [
+   0,
+   255,
+   251
+  ],
+  [
+   44,
+   255,
+   251
+  ],
+  [
+   93,
+   255,
+   251
+  ],
+  [
+   142,
+   255,
+   251
+  ],
+  [
+   190,
+   255,
+   251
+  ],
+  [
+   24,
+   12,
+   0
+  ],
+  [
+   44,
+   24,
+   0
+  ],
+  [
+   65,
+   36,
+   0
+  ],
+  [
+   85,
+   48,
+   0
+  ],
+  [
+   109,
+   60,
+   0
+  ],
+  [
+   130,
+   73,
+   0
+  ],
+  [
+   150,
+   85,
+   0
+  ],
+  [
+   170,
+   97,
+   0
+  ],
+  [
+   195,
+   113,
+   0
+  ],
+  [
+   199,
+   130,
+   28
+  ],
+  [
+   207,
+   146,
+   60
+  ],
+  [
+   215,
+   162,
+   93
+  ],
+  [
+   219,
+   182,
+   121
+  ],
+  [
+   227,
+   199,
+   154
+  ],
+  [
+   235,
+   215,
+   186
+  ],
+  [
+   243,
+   235,
+   219
+  ],
+  [
+   24,
+   12,
+   12
+  ],
+  [
+   40,
+   20,
+   20
+  ],
+  [
+   60,
+   32,
+   32
+  ],
+  [
+   81,
+   44,
+   44
+  ],
+  [
+   97,
+   52,
+   52
+  ],
+  [
+   117,
+   65,
+   65
+  ],
+  [
+   138,
+   77,
+   77
+  ],
+  [
+   158,
+   89,
+   89
+  ],
+  [
+   178,
+   105,
+   105
+  ],
+  [
+   199,
+   121,
+   121
+  ],
+  [
+   219,
+   138,
+   138
+  ],
+  [
+   243,
+   154,
+   154
+  ],
+  [
+   243,
+   170,
+   170
+  ],
+  [
+   247,
+   190,
+   190
+  ],
+  [
+   247,
+   207,
+   207
+  ],
+  [
+   251,
+   227,
+   227
+  ],
+  [
+   24,
+   20,
+   12
+  ],
+  [
+   44,
+   36,
+   24
+  ],
+  [
+   69,
+   52,
+   36
+  ],
+  [
+   89,
+   73,
+   48
+  ],
+  [
+   113,
+   89,
+   60
+  ],
+  [
+   134,
+   105,
+   73
+  ],
+  [
+   158,
+   125,
+   89
+  ],
+  [
+   174,
+   142,
+   101
+  ],
+  [
+   190,
+   158,
+   113
+  ],
+  [
+   207,
+   178,
+   125
+  ],
+  [
+   223,
+   195,
+   138
+  ],
+  [
+   243,
+   215,
+   154
+  ],
+  [
+   243,
+   219,
+   170
+  ],
+  [
+   247,
+   227,
+   190
+  ],
+  [
+   247,
+   235,
+   207
+  ],
+  [
+   251,
+   243,
+   227
+  ],
+  [
+   32,
+   8,
+   0
+  ],
+  [
+   60,
+   16,
+   0
+  ],
+  [
+   89,
+   28,
+   0
+  ],
+  [
+   121,
+   36,
+   0
+  ],
+  [
+   150,
+   48,
+   0
+  ],
+  [
+   178,
+   56,
+   0
+  ],
+  [
+   211,
+   69,
+   0
+  ],
+  [
+   219,
+   89,
+   0
+  ],
+  [
+   227,
+   113,
+   0
+  ],
+  [
+   235,
+   138,
+   0
+  ],
+  [
+   243,
+   162,
+   0
+  ],
+  [
+   255,
+   186,
+   0
+  ],
+  [
+   255,
+   203,
+   56
+  ],
+  [
+   255,
+   219,
+   113
+  ],
+  [
+   255,
+   235,
+   170
+  ],
+  [
+   255,
+   255,
+   227
+  ],
+  [
+   20,
+   12,
+   12
+  ],
+  [
+   36,
+   24,
+   24
+  ],
+  [
+   56,
+   36,
+   36
+  ],
+  [
+   73,
+   48,
+   48
+  ],
+  [
+   93,
+   65,
+   65
+  ],
+  [
+   109,
+   77,
+   77
+  ],
+  [
+   130,
+   89,
+   89
+  ],
+  [
+   146,
+   101,
+   101
+  ],
+  [
+   166,
+   117,
+   117
+  ],
+  [
+   174,
+   134,
+   134
+  ],
+  [
+   186,
+   150,
+   150
+  ],
+  [
+   195,
+   166,
+   166
+  ],
+  [
+   207,
+   182,
+   182
+  ],
+  [
+   215,
+   199,
+   199
+  ],
+  [
+   227,
+   215,
+   215
+  ],
+  [
+   239,
+   235,
+   235
+  ],
+  [
+   12,
+   20,
+   12
+  ],
+  [
+   24,
+   36,
+   24
+  ],
+  [
+   36,
+   56,
+   36
+  ],
+  [
+   48,
+   73,
+   48
+  ],
+  [
+   65,
+   93,
+   65
+  ],
+  [
+   77,
+   109,
+   77
+  ],
+  [
+   89,
+   130,
+   89
+  ],
+  [
+   101,
+   146,
+   101
+  ],
+  [
+   117,
+   166,
+   117
+  ],
+  [
+   134,
+   174,
+   134
+  ],
+  [
+   150,
+   186,
+   150
+  ],
+  [
+   166,
+   195,
+   166
+  ],
+  [
+   182,
+   207,
+   182
+  ],
+  [
+   199,
+   215,
+   199
+  ],
+  [
+   215,
+   227,
+   215
+  ],
+  [
+   235,
+   239,
+   235
+  ],
+  [
+   12,
+   12,
+   16
+  ],
+  [
+   24,
+   24,
+   32
+  ],
+  [
+   36,
+   36,
+   48
+  ],
+  [
+   48,
+   48,
+   65
+  ],
+  [
+   65,
+   65,
+   81
+  ],
+  [
+   77,
+   77,
+   97
+  ],
+  [
+   89,
+   89,
+   113
+  ],
+  [
+   101,
+   101,
+   130
+  ],
+  [
+   117,
+   117,
+   150
+  ],
+  [
+   134,
+   134,
+   162
+  ],
+  [
+   150,
+   150,
+   174
+  ],
+  [
+   166,
+   166,
+   186
+  ],
+  [
+   182,
+   182,
+   199
+  ],
+  [
+   199,
+   199,
+   211
+  ],
+  [
+   215,
+   215,
+   223
+  ],
+  [
+   235,
+   235,
+   239
+  ],
+  [
+   40,
+   0,
+   0
+  ],
+  [
+   81,
+   0,
+   0
+  ],
+  [
+   125,
+   0,
+   0
+  ],
+  [
+   166,
+   0,
+   0
+  ],
+  [
+   211,
+   0,
+   0
+  ],
+  [
+   255,
+   0,
+   0
+  ],
+  [
+   255,
+   40,
+   0
+  ],
+  [
+   255,
+   85,
+   0
+  ],
+  [
+   255,
+   125,
+   0
+  ],
+  [
+   255,
+   170,
+   0
+  ],
+  [
+   255,
+   211,
+   0
+  ],
+  [
+   255,
+   255,
+   0
+  ],
+  [
+   255,
+   255,
+   44
+  ],
+  [
+   255,
+   255,
+   93
+  ],
+  [
+   255,
+   255,
+   142
+  ],
+  [
+   255,
+   255,
+   190
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   89
+  ],
+  [
+   0,
+   0,
+   130
+  ],
+  [
+   0,
+   0,
+   170
+  ],
+  [
+   0,
+   0,
+   211
+  ],
+  [
+   0,
+   0,
+   251
+  ],
+  [
+   40,
+   0,
+   251
+  ],
+  [
+   85,
+   0,
+   251
+  ],
+  [
+   125,
+   0,
+   251
+  ],
+  [
+   170,
+   0,
+   251
+  ],
+  [
+   211,
+   0,
+   251
+  ],
+  [
+   255,
+   0,
+   255
+  ],
+  [
+   255,
+   52,
+   255
+  ],
+  [
+   255,
+   109,
+   255
+  ],
+  [
+   255,
+   166,
+   255
+  ],
+  [
+   255,
+   223,
+   255
+  ]
+ ],
+ "graphics": [
+  {
+   "code": 20,
+   "name": "Gauge-6",
+   "filename": "Map 15",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 0,
+   "png": "20.png"
+  },
+  {
+   "code": 21,
+   "name": "Gauge-5",
+   "filename": "Map 16",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 860,
+   "png": "21.png"
+  },
+  {
+   "code": 22,
+   "name": "Gauge-4",
+   "filename": "Map 17",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 1720,
+   "png": "22.png"
+  },
+  {
+   "code": 23,
+   "name": "Gauge-3",
+   "filename": "Map 18",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 2580,
+   "png": "23.png"
+  },
+  {
+   "code": 24,
+   "name": "Gauge-2",
+   "filename": "Map 19",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 3440,
+   "png": "24.png"
+  },
+  {
+   "code": 25,
+   "name": "Gauge-1",
+   "filename": "Map 20",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 4300,
+   "png": "25.png"
+  },
+  {
+   "code": 26,
+   "name": "Gauge-0",
+   "filename": "Map 21",
+   "width": 43,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 5160,
+   "png": "26.png"
+  },
+  {
+   "code": 1,
+   "name": "Background",
+   "filename": "Map 1",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 6020,
+   "png": "1.png"
+  },
+  {
+   "code": 2,
+   "name": "Cursor",
+   "filename": "Map 22",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 82820,
+   "png": "2.png"
+  },
+  {
+   "code": 3,
+   "name": "Choosen-Changer",
+   "filename": "Map 22",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 83304,
+   "png": "3.png"
+  },
+  {
+   "code": 29,
+   "name": "Unit Locator",
+   "filename": "Map 1",
+   "width": 320,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 83788,
+   "png": "29.png"
+  },
+  {
+   "code": 32,
+   "name": "Einheit 4*2 Template",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 97868,
+   "png": "32.png"
+  },
+  {
+   "code": 31,
+   "name": "Einheit 2*2 Template",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 101740,
+   "png": "31.png"
+  },
+  {
+   "code": 33,
+   "name": "Einheit 6*2 Template",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 103676,
+   "png": "33.png"
+  },
+  {
+   "code": 30,
+   "name": "Einheit 2*1 Template",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 109484,
+   "png": "30.png"
+  },
+  {
+   "code": 101,
+   "name": "Krieger - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 111420,
+   "png": "101.png"
+  },
+  {
+   "code": 102,
+   "name": "Krieger - 2",
+   "filename": "Map 2",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 111680,
+   "png": "102.png"
+  },
+  {
+   "code": 103,
+   "name": "Krieger - 3",
+   "filename": "Map 3",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 111940,
+   "png": "103.png"
+  },
+  {
+   "code": 104,
+   "name": "Krieger - 4",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 112200,
+   "png": "104.png"
+  },
+  {
+   "code": 100,
+   "name": "Locator - Krieger",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 112460,
+   "png": "100.png"
+  },
+  {
+   "code": 110,
+   "name": "Locator - Bogenschuetze",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 114396,
+   "png": "110.png"
+  },
+  {
+   "code": 111,
+   "name": "Bogenschuetze - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     18
+    ]
+   ],
+   "offset": 116332,
+   "png": "111.png"
+  },
+  {
+   "code": 112,
+   "name": "Bogenschuetze - 2",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     18
+    ]
+   ],
+   "offset": 116592,
+   "png": "112.png"
+  },
+  {
+   "code": 113,
+   "name": "Bogenschuetze - 3",
+   "filename": "Map 2",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     18
+    ]
+   ],
+   "offset": 116852,
+   "png": "113.png"
+  },
+  {
+   "code": 116,
+   "name": "Bogenschuetze - Pfeil",
+   "filename": "Map 3",
+   "width": 6,
+   "height": 5,
+   "cp0": [
+    3,
+    2
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 117112,
+   "png": "116.png"
+  },
+  {
+   "code": 10,
+   "name": "Holz-Material",
+   "filename": "Map 3",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 117142,
+   "png": "10.png"
+  },
+  {
+   "code": 11,
+   "name": "Eisen-Material",
+   "filename": "Map 4",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 117626,
+   "png": "11.png"
+  },
+  {
+   "code": 12,
+   "name": "Feuer-Material",
+   "filename": "Map 5",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 118110,
+   "png": "12.png"
+  },
+  {
+   "code": 13,
+   "name": "Mana-Material",
+   "filename": "Map 6",
+   "width": 22,
+   "height": 22,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 118594,
+   "png": "13.png"
+  },
+  {
+   "code": 130,
+   "name": "Locator - Ramme",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 119078,
+   "png": "130.png"
+  },
+  {
+   "code": 131,
+   "name": "Ramme - 1",
+   "filename": "Map 2",
+   "width": 39,
+   "height": 20,
+   "cp0": [
+    32,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     32,
+     19
+    ]
+   ],
+   "offset": 122950,
+   "png": "131.png"
+  },
+  {
+   "code": 132,
+   "name": "Ramme - 2",
+   "filename": "Map 3",
+   "width": 39,
+   "height": 20,
+   "cp0": [
+    32,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     32,
+     19
+    ]
+   ],
+   "offset": 123730,
+   "png": "132.png"
+  },
+  {
+   "code": 133,
+   "name": "Ramme - 3",
+   "filename": "Map 4",
+   "width": 39,
+   "height": 20,
+   "cp0": [
+    32,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     32,
+     19
+    ]
+   ],
+   "offset": 124510,
+   "png": "133.png"
+  },
+  {
+   "code": 134,
+   "name": "Ramme - 4",
+   "filename": "Map 5",
+   "width": 39,
+   "height": 20,
+   "cp0": [
+    32,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     32,
+     19
+    ]
+   ],
+   "offset": 125290,
+   "png": "134.png"
+  },
+  {
+   "code": 141,
+   "name": "Bomber - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 126070,
+   "png": "141.png"
+  },
+  {
+   "code": 142,
+   "name": "Bomber - 2",
+   "filename": "Map 2",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 126330,
+   "png": "142.png"
+  },
+  {
+   "code": 143,
+   "name": "Bomber - 3",
+   "filename": "Map 3",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 126590,
+   "png": "143.png"
+  },
+  {
+   "code": 144,
+   "name": "Bomber - 4",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 126850,
+   "png": "144.png"
+  },
+  {
+   "code": 140,
+   "name": "Locator - Bomber",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 127110,
+   "png": "140.png"
+  },
+  {
+   "code": 117,
+   "name": "Bogenschuetze - Explosion - 1",
+   "filename": "Map 17",
+   "width": 12,
+   "height": 12,
+   "cp0": [
+    6,
+    11
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     11
+    ]
+   ],
+   "offset": 129046,
+   "png": "117.png"
+  },
+  {
+   "code": 118,
+   "name": "Bogenschuetze - Explosion - 2",
+   "filename": "Map 18",
+   "width": 12,
+   "height": 12,
+   "cp0": [
+    6,
+    11
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     11
+    ]
+   ],
+   "offset": 129190,
+   "png": "118.png"
+  },
+  {
+   "code": 119,
+   "name": "Bogenschuetze - Explosion - 3",
+   "filename": "Map 19",
+   "width": 12,
+   "height": 12,
+   "cp0": [
+    6,
+    11
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     11
+    ]
+   ],
+   "offset": 129334,
+   "png": "119.png"
+  },
+  {
+   "code": 120,
+   "name": "Bogenschuetze - Explosion - 4",
+   "filename": "Map 20",
+   "width": 12,
+   "height": 12,
+   "cp0": [
+    6,
+    11
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     11
+    ]
+   ],
+   "offset": 129478,
+   "png": "120.png"
+  },
+  {
+   "code": 90,
+   "name": "Blut - 1",
+   "filename": "Map 1",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    21
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     21
+    ]
+   ],
+   "offset": 129622,
+   "png": "90.png"
+  },
+  {
+   "code": 91,
+   "name": "Blut - 2",
+   "filename": "Map 2",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    21
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     21
+    ]
+   ],
+   "offset": 129952,
+   "png": "91.png"
+  },
+  {
+   "code": 92,
+   "name": "Blut - 3",
+   "filename": "Map 3",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    21
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     21
+    ]
+   ],
+   "offset": 130282,
+   "png": "92.png"
+  },
+  {
+   "code": 93,
+   "name": "Blut - 4",
+   "filename": "Map 4",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    21
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     21
+    ]
+   ],
+   "offset": 130612,
+   "png": "93.png"
+  },
+  {
+   "code": 94,
+   "name": "Blut - 5",
+   "filename": "Map 5",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    21
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     21
+    ]
+   ],
+   "offset": 130942,
+   "png": "94.png"
+  },
+  {
+   "code": 95,
+   "name": "Blut - 6",
+   "filename": "Map 6",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    20
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     20
+    ]
+   ],
+   "offset": 131272,
+   "png": "95.png"
+  },
+  {
+   "code": 96,
+   "name": "Blut - 7",
+   "filename": "Map 7",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     19
+    ]
+   ],
+   "offset": 131602,
+   "png": "96.png"
+  },
+  {
+   "code": 97,
+   "name": "Blut - 8",
+   "filename": "Map 8",
+   "width": 15,
+   "height": 22,
+   "cp0": [
+    7,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     18
+    ]
+   ],
+   "offset": 131932,
+   "png": "97.png"
+  },
+  {
+   "code": 151,
+   "name": "Katapult - 1",
+   "filename": "Map 1",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 132262,
+   "png": "151.png"
+  },
+  {
+   "code": 152,
+   "name": "Katapult - 2",
+   "filename": "Map 2",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 133432,
+   "png": "152.png"
+  },
+  {
+   "code": 153,
+   "name": "Katapult - 3",
+   "filename": "Map 4",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 134602,
+   "png": "153.png"
+  },
+  {
+   "code": 154,
+   "name": "Katapult - 4",
+   "filename": "Map 5",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 135772,
+   "png": "154.png"
+  },
+  {
+   "code": 155,
+   "name": "Katapult - 5",
+   "filename": "Map 6",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 136942,
+   "png": "155.png"
+  },
+  {
+   "code": 156,
+   "name": "Katapult - Geschoss",
+   "filename": "Map 2",
+   "width": 5,
+   "height": 5,
+   "cp0": [
+    2,
+    2
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 138112,
+   "png": "156.png"
+  },
+  {
+   "code": 150,
+   "name": "Locator - Katapult",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 138137,
+   "png": "150.png"
+  },
+  {
+   "code": 161,
+   "name": "Balliste - 1",
+   "filename": "Map 1",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 142009,
+   "png": "161.png"
+  },
+  {
+   "code": 163,
+   "name": "Balliste - 3",
+   "filename": "Map 6",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 143179,
+   "png": "163.png"
+  },
+  {
+   "code": 164,
+   "name": "Balliste - 4",
+   "filename": "Map 7",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 144349,
+   "png": "164.png"
+  },
+  {
+   "code": 165,
+   "name": "Balliste - Geschoss",
+   "filename": "Map 2",
+   "width": 26,
+   "height": 3,
+   "cp0": [
+    13,
+    1
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 145519,
+   "png": "165.png"
+  },
+  {
+   "code": 160,
+   "name": "Locator - Balliste",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 145597,
+   "png": "160.png"
+  },
+  {
+   "code": 162,
+   "name": "Balliste - 2",
+   "filename": "Map 7",
+   "width": 39,
+   "height": 30,
+   "cp0": [
+    17,
+    28
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     28
+    ]
+   ],
+   "offset": 149469,
+   "png": "162.png"
+  },
+  {
+   "code": 170,
+   "name": "Locator - Ranken",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 150639,
+   "png": "170.png"
+  },
+  {
+   "code": 173,
+   "name": "Ranken - 3",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 152575,
+   "png": "173.png"
+  },
+  {
+   "code": 174,
+   "name": "Ranken - 4",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 154175,
+   "png": "174.png"
+  },
+  {
+   "code": 175,
+   "name": "Ranken - 5",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 155775,
+   "png": "175.png"
+  },
+  {
+   "code": 176,
+   "name": "Ranken - 6",
+   "filename": "Map 3",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 157375,
+   "png": "176.png"
+  },
+  {
+   "code": 172,
+   "name": "Ranken - 2",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 158975,
+   "png": "172.png"
+  },
+  {
+   "code": 171,
+   "name": "Ranken - 1",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    28,
+    39
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     28,
+     39
+    ]
+   ],
+   "offset": 160575,
+   "png": "171.png"
+  },
+  {
+   "code": 189,
+   "name": "Pferd - Template",
+   "filename": "Map 2",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    17,
+    17
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 162175,
+   "png": "189.png"
+  },
+  {
+   "code": 188,
+   "name": "Pferd - Sattel - Template",
+   "filename": "Map 2",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    17,
+    17
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 163400,
+   "png": "188.png"
+  },
+  {
+   "code": 180,
+   "name": "Locator - Ritter",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 164625,
+   "png": "180.png"
+  },
+  {
+   "code": 183,
+   "name": "Ritter - 3",
+   "filename": "Map 6",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 166561,
+   "png": "183.png"
+  },
+  {
+   "code": 184,
+   "name": "Ritter - 4",
+   "filename": "Map 7",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 167786,
+   "png": "184.png"
+  },
+  {
+   "code": 185,
+   "name": "Ritter - 5",
+   "filename": "Map 8",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 169011,
+   "png": "185.png"
+  },
+  {
+   "code": 186,
+   "name": "Ritter - 6",
+   "filename": "Map 9",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 170236,
+   "png": "186.png"
+  },
+  {
+   "code": 181,
+   "name": "Ritter - 1",
+   "filename": "Map 3",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 171461,
+   "png": "181.png"
+  },
+  {
+   "code": 182,
+   "name": "Ritter - 2",
+   "filename": "Map 5",
+   "width": 35,
+   "height": 35,
+   "cp0": [
+    24,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     34
+    ]
+   ],
+   "offset": 172686,
+   "png": "182.png"
+  },
+  {
+   "code": 190,
+   "name": "Locator - Wolke",
+   "filename": "Map 2",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 173911,
+   "png": "190.png"
+  },
+  {
+   "code": 191,
+   "name": "Wolke - 1",
+   "filename": "Map 1",
+   "width": 48,
+   "height": 30,
+   "cp0": [
+    23,
+    10
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     23,
+     10
+    ]
+   ],
+   "offset": 175847,
+   "png": "191.png"
+  },
+  {
+   "code": 192,
+   "name": "Wolke - 2a",
+   "filename": "Map 1",
+   "width": 48,
+   "height": 30,
+   "cp0": [
+    23,
+    10
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     23,
+     10
+    ]
+   ],
+   "offset": 177287,
+   "png": "192.png"
+  },
+  {
+   "code": 193,
+   "name": "Wolke - 2b",
+   "filename": "Map 1",
+   "width": 48,
+   "height": 30,
+   "cp0": [
+    23,
+    10
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     23,
+     10
+    ]
+   ],
+   "offset": 178727,
+   "png": "193.png"
+  },
+  {
+   "code": 194,
+   "name": "Wolke - 2c",
+   "filename": "Map 1",
+   "width": 48,
+   "height": 30,
+   "cp0": [
+    23,
+    10
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     23,
+     10
+    ]
+   ],
+   "offset": 180167,
+   "png": "194.png"
+  },
+  {
+   "code": 201,
+   "name": "Magier - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 181607,
+   "png": "201.png"
+  },
+  {
+   "code": 202,
+   "name": "Magier - 2",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 181867,
+   "png": "202.png"
+  },
+  {
+   "code": 203,
+   "name": "Magier - 3",
+   "filename": "Map 5",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 182127,
+   "png": "203.png"
+  },
+  {
+   "code": 204,
+   "name": "Magier - 4",
+   "filename": "Map 11",
+   "width": 120,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 182387,
+   "png": "204.png"
+  },
+  {
+   "code": 205,
+   "name": "Magier - 5",
+   "filename": "Map 12",
+   "width": 120,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 184787,
+   "png": "205.png"
+  },
+  {
+   "code": 206,
+   "name": "Magier - 6",
+   "filename": "Map 14",
+   "width": 120,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 187187,
+   "png": "206.png"
+  },
+  {
+   "code": 200,
+   "name": "Locator - Magier",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 189587,
+   "png": "200.png"
+  },
+  {
+   "code": 211,
+   "name": "Arbeiter - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 195395,
+   "png": "211.png"
+  },
+  {
+   "code": 212,
+   "name": "Arbeiter - 2",
+   "filename": "Map 5",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 195655,
+   "png": "212.png"
+  },
+  {
+   "code": 213,
+   "name": "Arbeiter - 3",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 195915,
+   "png": "213.png"
+  },
+  {
+   "code": 214,
+   "name": "Arbeiter - 4",
+   "filename": "Map 7",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 196175,
+   "png": "214.png"
+  },
+  {
+   "code": 215,
+   "name": "Arbeiter - 5 (Blur)",
+   "filename": "Map 9",
+   "width": 20,
+   "height": 15,
+   "cp0": [
+    10,
+    7
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 196435,
+   "png": "215.png"
+  },
+  {
+   "code": 210,
+   "name": "Locator - Arbeiter",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 196735,
+   "png": "210.png"
+  },
+  {
+   "code": 40,
+   "name": "Hintergrund - Himmel",
+   "filename": "Map 2",
+   "width": 320,
+   "height": 130,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 200607,
+   "png": "40.png"
+  },
+  {
+   "code": 50,
+   "name": "Vogel - 1",
+   "filename": "Map 1",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242207,
+   "png": "50.png"
+  },
+  {
+   "code": 51,
+   "name": "Vogel - 2",
+   "filename": "Map 2",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242256,
+   "png": "51.png"
+  },
+  {
+   "code": 52,
+   "name": "Vogel - 3",
+   "filename": "Map 3",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242305,
+   "png": "52.png"
+  },
+  {
+   "code": 53,
+   "name": "Vogel - 4",
+   "filename": "Map 4",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242354,
+   "png": "53.png"
+  },
+  {
+   "code": 54,
+   "name": "Vogel - 5",
+   "filename": "Map 5",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242403,
+   "png": "54.png"
+  },
+  {
+   "code": 55,
+   "name": "Vogel - 6",
+   "filename": "Map 6",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242452,
+   "png": "55.png"
+  },
+  {
+   "code": 56,
+   "name": "Vogel - 7",
+   "filename": "Map 7",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242501,
+   "png": "56.png"
+  },
+  {
+   "code": 57,
+   "name": "Vogel - 8",
+   "filename": "Map 8",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242550,
+   "png": "57.png"
+  },
+  {
+   "code": 58,
+   "name": "Wolke - a",
+   "filename": "Map 1",
+   "width": 25,
+   "height": 15,
+   "cp0": [
+    12,
+    7
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 242599,
+   "png": "58.png"
+  },
+  {
+   "code": 41,
+   "name": "Burg - 1",
+   "filename": "Map 1",
+   "width": 50,
+   "height": 90,
+   "cp0": [
+    24,
+    89
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     24,
+     89
+    ]
+   ],
+   "offset": 242974,
+   "png": "41.png"
+  },
+  {
+   "code": 220,
+   "name": "Locator - Elefant",
+   "filename": "Map 3",
+   "width": 88,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 247474,
+   "png": "220.png"
+  },
+  {
+   "code": 221,
+   "name": "Elefant - 1",
+   "filename": "Map 1",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 251346,
+   "png": "221.png"
+  },
+  {
+   "code": 222,
+   "name": "Elefant - 2",
+   "filename": "Map 5",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 253146,
+   "png": "222.png"
+  },
+  {
+   "code": 228,
+   "name": "Elefant - Sattel - Template",
+   "filename": "Map 1",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 254946,
+   "png": "228.png"
+  },
+  {
+   "code": 224,
+   "name": "Elefant - 4",
+   "filename": "Map 7",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 256746,
+   "png": "224.png"
+  },
+  {
+   "code": 223,
+   "name": "Elefant - 3",
+   "filename": "Map 6",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 258546,
+   "png": "223.png"
+  },
+  {
+   "code": 229,
+   "name": "Elefant - Template",
+   "filename": "Map 1",
+   "width": 40,
+   "height": 45,
+   "cp0": [
+    26,
+    44
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     44
+    ]
+   ],
+   "offset": 260346,
+   "png": "229.png"
+  },
+  {
+   "code": 231,
+   "name": "Turm - 1",
+   "filename": "Map 1",
+   "width": 25,
+   "height": 35,
+   "cp0": [
+    17,
+    34
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     34
+    ]
+   ],
+   "offset": 262146,
+   "png": "231.png"
+  },
+  {
+   "code": 230,
+   "name": "Locator - Turm",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 263021,
+   "png": "230.png"
+  },
+  {
+   "code": 251,
+   "name": "Pest - 1",
+   "filename": "Map 1",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 268829,
+   "png": "251.png"
+  },
+  {
+   "code": 252,
+   "name": "Pest - 2",
+   "filename": "Map 2",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 270854,
+   "png": "252.png"
+  },
+  {
+   "code": 253,
+   "name": "Pest - 3",
+   "filename": "Map 3",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 272879,
+   "png": "253.png"
+  },
+  {
+   "code": 254,
+   "name": "Pest - 4",
+   "filename": "Map 4",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 274904,
+   "png": "254.png"
+  },
+  {
+   "code": 255,
+   "name": "Pest - 5",
+   "filename": "Map 5",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 276929,
+   "png": "255.png"
+  },
+  {
+   "code": 256,
+   "name": "Pest - 6",
+   "filename": "Map 6",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 278954,
+   "png": "256.png"
+  },
+  {
+   "code": 257,
+   "name": "Pest - 7",
+   "filename": "Map 7",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 280979,
+   "png": "257.png"
+  },
+  {
+   "code": 258,
+   "name": "Pest - 8",
+   "filename": "Map 9",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 283004,
+   "png": "258.png"
+  },
+  {
+   "code": 259,
+   "name": "Pest - 9",
+   "filename": "Map 10",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 285029,
+   "png": "259.png"
+  },
+  {
+   "code": 260,
+   "name": "Pest - 10",
+   "filename": "Map 11",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 287054,
+   "png": "260.png"
+  },
+  {
+   "code": 261,
+   "name": "Pest - 11",
+   "filename": "Map 12",
+   "width": 45,
+   "height": 45,
+   "cp0": [
+    22,
+    42
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     22,
+     42
+    ]
+   ],
+   "offset": 289079,
+   "png": "261.png"
+  },
+  {
+   "code": 262,
+   "name": "Pest - Wagen",
+   "filename": "Map 16",
+   "width": 66,
+   "height": 22,
+   "cp0": [
+    33,
+    11
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 291104,
+   "png": "262.png"
+  },
+  {
+   "code": 250,
+   "name": "Locator - Pest",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 292556,
+   "png": "250.png"
+  },
+  {
+   "code": 240,
+   "name": "Locator - Meteor",
+   "filename": "Map 4",
+   "width": 44,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 298364,
+   "png": "240.png"
+  },
+  {
+   "code": 271,
+   "name": "Luftschiff - 1",
+   "filename": "Map 2",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    19,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     19,
+     29
+    ]
+   ],
+   "offset": 300300,
+   "png": "271.png"
+  },
+  {
+   "code": 272,
+   "name": "Luftschiff - 2",
+   "filename": "Map 4",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    19,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     19,
+     29
+    ]
+   ],
+   "offset": 301900,
+   "png": "272.png"
+  },
+  {
+   "code": 273,
+   "name": "Luftschiff - 3",
+   "filename": "Map 3",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    19,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     19,
+     29
+    ]
+   ],
+   "offset": 303500,
+   "png": "273.png"
+  },
+  {
+   "code": 274,
+   "name": "Luftschiff - 4",
+   "filename": "Map 5",
+   "width": 40,
+   "height": 40,
+   "cp0": [
+    19,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     19,
+     29
+    ]
+   ],
+   "offset": 305100,
+   "png": "274.png"
+  },
+  {
+   "code": 270,
+   "name": "Locator - Luftschiff",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 306700,
+   "png": "270.png"
+  },
+  {
+   "code": 275,
+   "name": "Luftschiff - Geschoss",
+   "filename": "Map 7",
+   "width": 2,
+   "height": 5,
+   "cp0": [
+    1,
+    2
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 312508,
+   "png": "275.png"
+  },
+  {
+   "code": 80,
+   "name": "Einheitenliste - 1",
+   "filename": "Map 9",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 312518,
+   "png": "80.png"
+  },
+  {
+   "code": 81,
+   "name": "Einheitenliste - 2",
+   "filename": "Map 11",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 389318,
+   "png": "81.png"
+  },
+  {
+   "code": 82,
+   "name": "Einheitenliste - 3",
+   "filename": "Map 16",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 466118,
+   "png": "82.png"
+  },
+  {
+   "code": 83,
+   "name": "Einheitenliste - 4",
+   "filename": "Map 8",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 542918,
+   "png": "83.png"
+  },
+  {
+   "code": 84,
+   "name": "Einheitenliste - 5",
+   "filename": "Map 8",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 619718,
+   "png": "84.png"
+  },
+  {
+   "code": 291,
+   "name": "Drache - 1",
+   "filename": "Map 2",
+   "width": 50,
+   "height": 50,
+   "cp0": [
+    26,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     29
+    ]
+   ],
+   "offset": 696518,
+   "png": "291.png"
+  },
+  {
+   "code": 292,
+   "name": "Drache - 2",
+   "filename": "Map 2",
+   "width": 50,
+   "height": 50,
+   "cp0": [
+    26,
+    31
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     31
+    ]
+   ],
+   "offset": 699018,
+   "png": "292.png"
+  },
+  {
+   "code": 293,
+   "name": "Drache - 3",
+   "filename": "Map 2",
+   "width": 50,
+   "height": 50,
+   "cp0": [
+    26,
+    29
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     29
+    ]
+   ],
+   "offset": 701518,
+   "png": "293.png"
+  },
+  {
+   "code": 294,
+   "name": "Drache - 4",
+   "filename": "Map 2",
+   "width": 50,
+   "height": 50,
+   "cp0": [
+    26,
+    27
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     26,
+     27
+    ]
+   ],
+   "offset": 704018,
+   "png": "294.png"
+  },
+  {
+   "code": 290,
+   "name": "Locator - Drache",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 706518,
+   "png": "290.png"
+  },
+  {
+   "code": 289,
+   "name": "Golem - Template",
+   "filename": "Map 1",
+   "width": 30,
+   "height": 50,
+   "cp0": [
+    15,
+    25
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 712326,
+   "png": "289.png"
+  },
+  {
+   "code": 280,
+   "name": "Golem - Locator",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 713826,
+   "png": "280.png"
+  },
+  {
+   "code": 281,
+   "name": "Golem - 1",
+   "filename": "Map 1",
+   "width": 30,
+   "height": 50,
+   "cp0": [
+    17,
+    48
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     48
+    ]
+   ],
+   "offset": 719634,
+   "png": "281.png"
+  },
+  {
+   "code": 282,
+   "name": "Golem - 2",
+   "filename": "Map 3",
+   "width": 30,
+   "height": 50,
+   "cp0": [
+    17,
+    48
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     48
+    ]
+   ],
+   "offset": 721134,
+   "png": "282.png"
+  },
+  {
+   "code": 283,
+   "name": "Golem - 3",
+   "filename": "Map 4",
+   "width": 30,
+   "height": 50,
+   "cp0": [
+    17,
+    48
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     48
+    ]
+   ],
+   "offset": 722634,
+   "png": "283.png"
+  },
+  {
+   "code": 284,
+   "name": "Golem - 4",
+   "filename": "Map 5",
+   "width": 30,
+   "height": 50,
+   "cp0": [
+    17,
+    48
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     17,
+     48
+    ]
+   ],
+   "offset": 724134,
+   "png": "284.png"
+  },
+  {
+   "code": 301,
+   "name": "Totenbeschwoerer - A1",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 725634,
+   "png": "301.png"
+  },
+  {
+   "code": 302,
+   "name": "Totenbeschwoerer - A2",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 725894,
+   "png": "302.png"
+  },
+  {
+   "code": 303,
+   "name": "Totenbeschwoerer - A3",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 726154,
+   "png": "303.png"
+  },
+  {
+   "code": 304,
+   "name": "Totenbeschwoerer - A4",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 726414,
+   "png": "304.png"
+  },
+  {
+   "code": 305,
+   "name": "Totenbeschwoerer - B1",
+   "filename": "Map 9",
+   "width": 14,
+   "height": 19,
+   "cp0": [
+    7,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     18
+    ]
+   ],
+   "offset": 726674,
+   "png": "305.png"
+  },
+  {
+   "code": 307,
+   "name": "Totenbeschwoerer - B3",
+   "filename": "Map 11",
+   "width": 14,
+   "height": 19,
+   "cp0": [
+    7,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     18
+    ]
+   ],
+   "offset": 726940,
+   "png": "307.png"
+  },
+  {
+   "code": 306,
+   "name": "Totenbeschwoerer - B2",
+   "filename": "Map 10",
+   "width": 14,
+   "height": 19,
+   "cp0": [
+    7,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     18
+    ]
+   ],
+   "offset": 727206,
+   "png": "306.png"
+  },
+  {
+   "code": 308,
+   "name": "Totenbeschwoerer - B4",
+   "filename": "Map 12",
+   "width": 14,
+   "height": 19,
+   "cp0": [
+    7,
+    18
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     7,
+     18
+    ]
+   ],
+   "offset": 727472,
+   "png": "308.png"
+  },
+  {
+   "code": 311,
+   "name": "Skelett - 1",
+   "filename": "Map 1",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 727738,
+   "png": "311.png"
+  },
+  {
+   "code": 312,
+   "name": "Skelett - 2",
+   "filename": "Map 2",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 727998,
+   "png": "312.png"
+  },
+  {
+   "code": 313,
+   "name": "Skelett - 3",
+   "filename": "Map 3",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 728258,
+   "png": "313.png"
+  },
+  {
+   "code": 314,
+   "name": "Skelett - 4",
+   "filename": "Map 4",
+   "width": 13,
+   "height": 20,
+   "cp0": [
+    6,
+    19
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     6,
+     19
+    ]
+   ],
+   "offset": 728518,
+   "png": "314.png"
+  },
+  {
+   "code": 300,
+   "name": "Locator - Totenbeschwoerer",
+   "filename": "Map 4",
+   "width": 132,
+   "height": 44,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 728778,
+   "png": "300.png"
+  },
+  {
+   "code": 85,
+   "name": "Einheitenliste - 6",
+   "filename": "Map 4",
+   "width": 320,
+   "height": 240,
+   "cp0": [
+    160,
+    120
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 734586,
+   "png": "85.png"
+  }
+ ]
+}
