@@ -1,0 +1,24 @@
+{
+ "prg": "MINI1.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Mini1.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/Mini1.FPG",
+   "converted": "fpg/mini1"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Mini1.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/MINI1.FNT",
+   "converted": "fnt/mini1"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/Mini1.FPG",
+ "system_font": "fnt/system"
+}

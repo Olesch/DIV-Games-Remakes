@@ -1,0 +1,17 @@
+{
+ "prg": "PINGPONG.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\PingPong.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/PINGPONG.FPG",
+   "converted": "fpg/pingpong"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/PINGPONG.FPG",
+ "system_font": "fnt/system"
+}

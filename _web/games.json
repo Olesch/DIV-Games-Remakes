@@ -1,0 +1,492 @@
+[
+ {
+  "slug": "microcosm",
+  "title": "Minicosm",
+  "alt": "Minicosm gameplay: rockets fly at meteors above the Duks and two corner cannons",
+  "width": 1024,
+  "height": 768,
+  "description": "After Microcosm: defend your Duks from falling meteors with two mouse-aimed cannons. Left/right mouse button fires.",
+  "source": [
+   "MINICOSM.PRG"
+  ],
+  "made": "2005-05",
+  "finished": "2005-05",
+  "category": "main"
+ },
+ {
+  "slug": "atoms",
+  "title": "Atome",
+  "alt": "Atome: an 8x8 grid with red atoms and their bonds, points and bombs on the left",
+  "width": 640,
+  "height": 480,
+  "description": "Place atoms on a grid and give each the right number of bonds to form complete molecules. Finished molecules vanish for points; enough points earn bombs. Arrow keys, Enter, Backspace for a bomb, H for the rules (in German).",
+  "source": [
+   "ATOMS.PRG"
+  ],
+  "made": "2006-07",
+  "finished": "2006-07",
+  "category": "main"
+ },
+ {
+  "slug": "castle",
+  "title": "Castle",
+  "alt": "Castle: a red-brick castle maze full of orks, potions and keys, with the hero's stats parchment open",
+  "width": 800,
+  "height": 600,
+  "description": "Top-down dungeon action-RPG: fight orks, ogres and ghosts with sword, bow and magic, collect keys and potions, level up and save at save points. Arrows move, Space attacks, X changes weapon, C changes magic, V shows stats. Your own levels from Castedit can be played as level sets 3 and 4.",
+  "source": [
+   "CASTLE.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2006-10",
+  "category": "main"
+ },
+ {
+  "slug": "castedit",
+  "title": "Castedit",
+  "alt": "Castedit: a Castle room in the editor, red brick walls and grey floors with potions, keys, monsters and secret-passage markers",
+  "width": 800,
+  "height": 600,
+  "description": "Olesch's own room editor for Castle: browse all 36 rooms of the two original level sets, repaint walls, doors, trapdoors, treasure and monsters, and save your own levels to slots 3 and 4 to play them in Castle. Arrows move, Z/X choosers, Enter places, I/J/K/L change room, Ctrl+S save, Ctrl+E/Ctrl+O export/import, H help.",
+  "source": [
+   "CASTEDIT.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2006-10",
+  "category": "main"
+ },
+ {
+  "slug": "siege",
+  "title": "Siege",
+  "alt": "Siege: two castles with element-tile fields above them and armies clashing in between",
+  "width": 320,
+  "height": 240,
+  "description": "Two players on one keyboard swap element tiles (wood, metal, fire, magic) to build warriors, archers, rams, catapults, dragons and more, then send them against the other castle. Player 1: arrows, O, P, L. Player 2: WASD, 1, 2, Q.",
+  "source": [
+   "SIEGE.PRG"
+  ],
+  "made": "2007-02",
+  "finished": "2007-02",
+  "category": "main"
+ },
+ {
+  "slug": "s-type",
+  "title": "S-Type",
+  "alt": "S-Type: three ships fire into a field of orange enemy fighters over a starry background",
+  "width": 800,
+  "height": 600,
+  "description": "R-Type style shoot'em-up for 1–4 players on one keyboard: collect money, buy weapons, pods and shields, and fight through two levels to the boss. Player 1: arrows, Space fires, Right Shift buys, Enter switches weapon.",
+  "source": [
+   "S-TYPE.PRG"
+  ],
+  "made": "2005-11",
+  "finished": "2005-11",
+  "category": "main"
+ },
+ {
+  "slug": "huhnshot",
+  "title": "Huhnshot",
+  "alt": "Huhnshot: a chicken flies over a green hill next to a castle ruin, with combo bonus texts and the shell magazine",
+  "width": 800,
+  "height": 600,
+  "description": "Shoot as many chickens as you can in 90 seconds while scrolling across a mountain panorama, and hunt bonus targets (flowers, hills, a castle ruin, the clock) for extra time and ammo. Left click shoots, right click reloads, arrow keys or screen edges scroll.",
+  "source": [
+   "HUHNSHOT.PRG"
+  ],
+  "made": "2005-10",
+  "finished": "2005-10",
+  "category": "main"
+ },
+ {
+  "slug": "lommings",
+  "title": "Lommings",
+  "alt": "Lommings: a brown cave level with an entrance hatch, a rocky spire and the exit, with the skill panel below",
+  "width": 320,
+  "height": 240,
+  "description": "A Lemmings clone: guide a stream of little Lommings from the entrance to the exit by giving them skills like climbing, digging, building ladders, blocking and exploding, across 13 levels. Mouse picks a Lomming, keys 1–9 or the panel choose the skill.",
+  "source": [
+   "LOMMINGS.PRG"
+  ],
+  "made": "2006-01",
+  "finished": "2006-01",
+  "category": "main"
+ },
+ {
+  "slug": "stranded",
+  "title": "Stranded",
+  "alt": "Stranded: a castaway on a sandy beach of a green island with palms and rocks, inventory list and fogged radar",
+  "width": 800,
+  "height": 600,
+  "description": "Island survival: walk the island, search for and gather food and materials, craft tools and flour, and keep hunger, thirst and health up through each day and night. S/X/Z/C walk, D searches, F takes, A sleeps, V/B/G pick the action, 1–9 the item.",
+  "source": [
+   "STRANDED.PRG"
+  ],
+  "made": null,
+  "finished": null,
+  "category": "minor"
+ },
+ {
+  "slug": "siedler",
+  "title": "Siedler",
+  "alt": "Siedler: a green meadow with a forest on the right, a wooden house, two orange building sites and tiny settlers, with a minimap in the corner",
+  "width": 640,
+  "height": 480,
+  "description": "An unfinished Settlers-style sandbox: send little settlers off to chop trees and dig clay, and lay out building sites on a scrolling map. Houses never get finished, as in the original. Mouse moves and scrolls, left click sets points; M opens the menu (S collection points, R workers, G build), Esc releases the mouse.",
+  "source": [
+   "SIEDLER.PRG"
+  ],
+  "made": "2005-01",
+  "finished": "2005-01",
+  "category": "minor"
+ },
+ {
+  "slug": "heatfighter",
+  "title": "Heatfighter",
+  "alt": "Heatfighter: two anime-style fighters face off with life and mana bars",
+  "width": 640,
+  "height": 480,
+  "description": "Two-player 2D fighting game: walk, jump, duck, block high, mid and low, and chain punches into special moves like Eigen's fireballs, with a computer opponent when you play alone. Player 1: X/V move, D jump, C duck, 1/2 punch. Player 2: arrows, 9/0 punch.",
+  "source": [
+   "HEATFIGH.PRG"
+  ],
+  "made": "2004-11",
+  "finished": "2005-01",
+  "category": "main"
+ },
+ {
+  "slug": "miniship",
+  "title": "Miniship",
+  "alt": "Miniship: small ships and asteroids circle a white planet in black space",
+  "width": 800,
+  "height": 600,
+  "description": "Up to four ships, human or computer, dogfight around a gravity-bending planet with lasers, rockets, shields and teleports, in classic or \"Hold the Flag\" mode. Player A: arrows, Right Shift fires; B: W/A/D, Left Shift; both turn keys together = shield.",
+  "source": [
+   "MINISHIP.PRG"
+  ],
+  "made": "2005-11",
+  "finished": "2005-11",
+  "category": "main"
+ },
+ {
+  "slug": "gigamaze",
+  "title": "GigaMaze",
+  "alt": "GigaMaze: four small coloured ships in a grey maze with a pink diamond and weapon pickups, score panels below",
+  "width": 640,
+  "height": 480,
+  "description": "Up to four players share one keyboard and fly through a maze, shooting each other with bullets and lasers, grabbing weapon pickups and chasing the diamond for points. P1: arrows + Space; P2: 2/W/Q/E + 1; P3: 9/O/I/P + 8; P4: H/N/B/M + G.",
+  "source": [
+   "GIGAMAZE.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2005-12",
+  "category": "main"
+ },
+ {
+  "slug": "canonball-riding",
+  "title": "Canonball Riding",
+  "alt": "Canonball Riding: two riders balance on cannonballs in a blue sky full of clouds",
+  "width": 640,
+  "height": 480,
+  "description": "One or two riders balance on cannonballs, steering against a shifting wind to dodge the giant cannonballs flying up from below. 1 or 2 starts; player 1 steers with Left/Right, player 2 with A/D.",
+  "source": [
+   "CBRIDE.PRG"
+  ],
+  "made": "2004-07",
+  "finished": "2004-07",
+  "category": "main"
+ },
+ {
+  "slug": "wormbattlewarriors",
+  "title": "WormBattleWarriors",
+  "alt": "WormBattleWarriors: worms on a grass layer above brown earth with tunnels, leaves and stones",
+  "width": 320,
+  "height": 240,
+  "description": "Turn-based two-player strategy: worm armies dig through the earth, gather leaves, wood and food, breed workers and train fighters on a 32x24 grid. Arrows move the cursor, Enter selects a worm, an arrow acts, Space ends the turn.",
+  "source": [
+   "UNDWORLD.PRG"
+  ],
+  "made": "2006-07",
+  "finished": "2006-07",
+  "category": "minor"
+ },
+ {
+  "slug": "baller",
+  "title": "Baller",
+  "alt": "Baller: a red ball rolls through a maze of blue walls, yellow tracks and red death zones",
+  "width": 640,
+  "height": 480,
+  "description": "Steer a small ball with the arrow keys so the big ball follows it on a rubber band through colour-coded mazes: bounce off walls, avoid red death zones and reach the goal as fast as you can. R pulls the guide ball back.",
+  "source": [
+   "BALLER.PRG"
+  ],
+  "made": "2005-10",
+  "finished": "2005-10",
+  "category": "main"
+ },
+ {
+  "slug": "bunnyjumpers",
+  "title": "BunnyJumpers",
+  "alt": "BunnyJumpers: two small bunnies falling into a grey block maze with coloured platform edges",
+  "width": 1024,
+  "height": 768,
+  "description": "Two bunnies hop around a block maze, landing on platforms, bouncing off ceilings and walls and bumping into each other. Bunny 1: arrow keys; bunny 2: W/A/S/D. Up jumps.",
+  "source": [
+   "BUNYJUMP.PRG"
+  ],
+  "made": "2005-02",
+  "finished": "2005-02",
+  "category": "minor"
+ },
+ {
+  "slug": "pingpong",
+  "title": "PingPong",
+  "alt": "PingPong: two green bats and dozens of green balls bouncing between the walls",
+  "width": 640,
+  "height": 480,
+  "description": "Pong for two with 70 balls at once: keep them out of your side until one player is 500 points ahead. Player 1: Q/A; player 2: Up/Down. Enter restarts after a win.",
+  "source": [
+   "PINGPONG.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2005-12",
+  "category": "minor"
+ },
+ {
+  "slug": "ship-duel",
+  "title": "Ship Duel (Tutorial 1)",
+  "alt": "Ship Duel: four round coloured ships in the corners of a blue-walled starfield arena, firing shots",
+  "width": 640,
+  "height": 480,
+  "description": "Four ships in the corners of a walled arena turn and fire bouncing shots and explosive blasts at each other; a settings screen lets you change almost every rule first. P1: Left/Right + Up, End; P2: A/D + W, Q; P3: keypad 1/3 + 5, Del; P4: J/L + I, U.",
+  "source": [
+   "MINI1.PRG"
+  ],
+  "made": "2004-07",
+  "finished": "2004-07",
+  "category": "main"
+ },
+ {
+  "slug": "thursday-panzers",
+  "title": "Thursday Panzers",
+  "alt": "Thursday Panzers: split screen of a grass field with rows of green and red tanks",
+  "width": 800,
+  "height": 600,
+  "description": "Split-screen tank war: two players each lead a team of computer panzers and aim for the enemy's rear to wipe out the other team. Player 1: arrow keys + Enter; player 2: W/A/S/D + Q. Esc restarts.",
+  "source": [
+   "THURPANZ.PRG"
+  ],
+  "made": "2006-03",
+  "finished": "2006-03",
+  "category": "main"
+ },
+ {
+  "slug": "sniper",
+  "title": "Sniper",
+  "alt": "Sniper: a column of green soldiers with rifles on the left, a crosshair on a yellow balloon",
+  "width": 1024,
+  "height": 768,
+  "description": "Aim a crosshair while a whole column of snipers fires together at balloons drifting up the screen, and every salvo's recoil throws your aim back. Mouse aims (click to capture, Esc releases), left button fires, right button reloads miniguns and grenade launchers, Up/Down move the column.",
+  "source": [
+   "SNIPGAME.PRG"
+  ],
+  "made": "2004-09",
+  "finished": "2004-09",
+  "category": "minor"
+ },
+ {
+  "slug": "hatsch1",
+  "title": "Hatsch1",
+  "alt": "Hatsch1: small flying creatures over a meadow with a red-and-white tent, a smiling sun and life counters in the corners",
+  "width": 800,
+  "height": 600,
+  "description": "Three players share one keyboard and fly around a wrap-around arena: hold fire to charge a shot, release to blast your rivals, and mind the recoil. P1: arrows (Down fires); P2: A/D/W/S (S fires); P3: J/L/I/K (K fires). Enter restarts.",
+  "source": [
+   "HATSCH1.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2005-12",
+  "category": "minor"
+ },
+ {
+  "slug": "runner",
+  "title": "Runner",
+  "alt": "Runner: two stick-figure sprinters on a track, one marked FOUL, with the race clock below",
+  "width": 640,
+  "height": 480,
+  "description": "Two-player sprint: hammer your two keys alternately to race to the finish, and don't jump the gun before \"Los\" or you foul out. Upper runner: Left/Right; lower runner: A/D. Enter restarts.",
+  "source": [
+   "RUNNER.PRG"
+  ],
+  "made": "2004-10",
+  "finished": "2007-02",
+  "category": "minor"
+ },
+ {
+  "slug": "decathlon",
+  "title": "Decathlon",
+  "alt": "Decathlon: a white jointed arm with fading afterimages and the dotted flight path of the throw",
+  "width": 800,
+  "height": 600,
+  "description": "Hammer throw: press Space to swing a jointed arm, alternate Left and Right to build speed, release at the right moment and beat the hiscore distance.",
+  "source": [
+   "DECATLON.PRG"
+  ],
+  "made": "2006-02",
+  "finished": "2006-02",
+  "category": "minor"
+ },
+ {
+  "slug": "ballkill",
+  "title": "Ballkill",
+  "alt": "Ballkill: red balls rising from the bottom, a pin cursor and a hair-dryer at the top",
+  "width": 800,
+  "height": 600,
+  "description": "Prick the red balls with a pin before they float off the top of the screen, while a hair-dryer blows them back down; every level adds a ball. Left click pricks, hold the right button to move the hair-dryer.",
+  "source": [
+   "BALLKILL.PRG"
+  ],
+  "made": "2005-12",
+  "finished": "2005-12",
+  "category": "minor"
+ },
+ {
+  "slug": "tron",
+  "title": "Tron",
+  "alt": "Tron: a red and a blue light-cycle trail on a black field",
+  "width": 1024,
+  "height": 768,
+  "description": "Two-player light-cycle duel: steer with left and right turns, leave a solid trail and outlast your opponent. Red: Left/Right; blue: A/D. Enter restarts.",
+  "source": [
+   "OLTRON.PRG"
+  ],
+  "made": "2004-09",
+  "finished": "2004-09",
+  "category": "minor"
+ },
+ {
+  "slug": "fort",
+  "title": "Fort",
+  "alt": "Fort: an orange fort in the centre, red and purple enemies closing in from all sides",
+  "width": 800,
+  "height": 600,
+  "description": "Defend the fort in the middle by clicking to fire at the straight-flying and zig-zagging enemies closing in from every side. Mouse aims, left click fires.",
+  "source": [
+   "FORTKEEP.PRG"
+  ],
+  "made": "2007-01",
+  "finished": "2007-01",
+  "category": "minor"
+ },
+ {
+  "slug": "rubik",
+  "title": "Rubik",
+  "alt": "Rubik: a 3x3 grid of the numbers 1 to 9 surrounded by a swarm of coloured dots",
+  "width": 640,
+  "height": 480,
+  "description": "A 3x3 number-rotation puzzle: move the cursor around the border and rotate rows and columns to restore 1 to 9; a swarm of dots appears when it is solved. Left/Right move the cursor, Enter rotates, M scrambles.",
+  "source": [
+   "RUBIK3X3.PRG"
+  ],
+  "made": "2006-07",
+  "finished": "2006-07",
+  "category": "minor"
+ },
+ {
+  "slug": "panzers",
+  "title": "Panzers",
+  "alt": "Panzers: two green tanks with rotating turrets on a speckled grass field, shells in flight",
+  "width": 1024,
+  "height": 768,
+  "description": "Two tanks with rotating turrets share one keyboard and fire shells across a grass field until one is destroyed (originally a sandbox with no scoring). Player 1: J/L turn, K drives, U/O turret, I fires; player 2: A/D, S, Q/E, W.",
+  "source": [
+   "PANZERS.PRG"
+  ],
+  "made": "2004-10",
+  "finished": "2004-10",
+  "category": "minor"
+ },
+ {
+  "slug": "snake",
+  "title": "Snake",
+  "alt": "Snake: a red worm with a green head inside a brick frame, with score and record at the top",
+  "width": 640,
+  "height": 480,
+  "description": "The DIV Tutorial 4 worm game, slightly modified: steer the endless worm, eat apples to grow and score, and don't hit the wall or yourself. Arrow keys go straight, E/Q/Z/C diagonally.",
+  "source": [
+   "SNAKE.PRG"
+  ],
+  "made": null,
+  "finished": "2007-12",
+  "category": "minor"
+ },
+ {
+  "slug": "kochkurve",
+  "title": "Kochkurve",
+  "alt": "Kochkurve: a large white Sierpinski triangle made of pixels on black, with the menu '1 - Sierpinski, 2 - Koch' in the corner",
+  "width": 1024,
+  "height": 768,
+  "description": "A tiny fractal toy: press a key and a seven-level Sierpinski triangle appears in white pixels, drawn with a hand-written line routine. 1 draws the triangle (2 was meant for the Koch curve); reload to draw again.",
+  "source": [
+   "KOCHKURV.PRG"
+  ],
+  "made": "2007-03",
+  "finished": "2007-03",
+  "category": "minor"
+ },
+ {
+  "slug": "rotators",
+  "title": "Rotators (Dreher)",
+  "alt": "Rotators: a cloud of white dots around a cluster of spinning grey keys in the middle of a black screen, with option keys listed at the bottom",
+  "width": 1024,
+  "height": 768,
+  "description": "A chain of 22 spinning keys hangs from the centre of the screen, each turning faster than the last, and their tips leave a slowly growing cloud of white dots. An options screen lets you build your own patterns. Tab options, Space pause, C clear, R restart, N random.",
+  "source": [
+   "SPACE2.PRG"
+  ],
+  "made": "2004-09",
+  "finished": "2005-12",
+  "category": "minor"
+ },
+ {
+  "slug": "mandelbrot",
+  "title": "Mandelbrot",
+  "alt": "Mandelbrot: the dark Mandelbrot set with bright blue edges on bands of pale lilac",
+  "width": 1024,
+  "height": 768,
+  "description": "A little Mandelbrot explorer: pan and zoom with the keys, sketch quick previews, then watch the full picture draw itself column by column. F1 draws, F2/F3 preview, arrows move, +/- zoom, F4 clears.",
+  "source": [
+   "MANDBROT.PRG"
+  ],
+  "made": "2007-02",
+  "finished": "2007-02",
+  "category": "minor"
+ },
+ {
+  "slug": "antjumper",
+  "title": "AntJumper",
+  "alt": "AntJumper: a dense red, green and white pixel pattern grown by an ant with the rule LLRR, zoomed in, with the controls at the bottom",
+  "width": 1024,
+  "height": 768,
+  "description": "A tiny digital ant paints patterns pixel by pixel. The original as coded only draws one straight line, so press O and pick classic Langton's ant or another multi-colour rule, add more ants, then zoom and pan around. WASD move, E/Q zoom, Space pause, R restart.",
+  "source": [
+   "ANT.PRG"
+  ],
+  "made": "2006-02",
+  "finished": "2006-02",
+  "category": "minor"
+ },
+ {
+  "slug": "balls",
+  "title": "Balls",
+  "alt": "Balls: a branching grey tree of stuck balls grown from the centre, lopsided to the right",
+  "width": 1024,
+  "height": 768,
+  "description": "Balls shoot in from the screen edges toward the centre and freeze on contact, slowly growing a branching crystal-like tree. Just watch; R restarts.",
+  "source": [
+   "BALLS.PRG"
+  ],
+  "made": "2005-09",
+  "finished": "2005-09",
+  "category": "minor"
+ }
+]

@@ -1,0 +1,26 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/boss_shield.gd" id="1"]
+
+[node name="BossShield" type="Area2D"]
+collision_layer = 4
+collision_mask = 0
+
+script = ExtResource("1")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+centered = false
+
+
+[node name="Arc0" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(50.41, -19.35, 47.23, -26.18, 43.13, -32.50, 38.18, -38.18, 32.50, -43.13, 26.18, -47.23, 19.35, -50.41, 17.56, -45.75, 23.76, -42.86, 29.49, -39.13, 34.65, -34.65, 39.13, -29.49, 42.86, -23.76, 45.75, -17.56)
+
+[node name="Arc1" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-19.35, -50.41, -26.18, -47.23, -32.50, -43.13, -38.18, -38.18, -43.13, -32.50, -47.23, -26.18, -50.41, -19.35, -45.75, -17.56, -42.86, -23.76, -39.13, -29.49, -34.65, -34.65, -29.49, -39.13, -23.76, -42.86, -17.56, -45.75)
+
+[node name="Arc2" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-50.41, 19.35, -47.23, 26.18, -43.13, 32.50, -38.18, 38.18, -32.50, 43.13, -26.18, 47.23, -19.35, 50.41, -17.56, 45.75, -23.76, 42.86, -29.49, 39.13, -34.65, 34.65, -39.13, 29.49, -42.86, 23.76, -45.75, 17.56)
+
+[node name="Arc3" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(19.35, 50.41, 26.18, 47.23, 32.50, 43.13, 38.18, 38.18, 43.13, 32.50, 47.23, 26.18, 50.41, 19.35, 45.75, 17.56, 42.86, 23.76, 39.13, 29.49, 34.65, 34.65, 29.49, 39.13, 23.76, 42.86, 17.56, 45.75)
+

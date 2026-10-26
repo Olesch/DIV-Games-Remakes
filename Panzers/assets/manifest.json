@@ -1,0 +1,22 @@
+{
+ "prg": "PANZERS.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Panzers.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/PANZERS.FPG",
+   "converted": "fpg/panzers"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Space.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/PANZERS.FPG",
+ "system_font": "fnt/system"
+}

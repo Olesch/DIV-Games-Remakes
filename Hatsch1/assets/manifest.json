@@ -1,0 +1,24 @@
+{
+ "prg": "HATSCH1.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Hatsch1.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HATSCH1.FPG",
+   "converted": "fpg/hatsch1"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Hatsch1.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/HATSCH1.FNT",
+   "converted": "fnt/hatsch1"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/HATSCH1.FPG",
+ "system_font": "fnt/system"
+}

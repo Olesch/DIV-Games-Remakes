@@ -1,0 +1,16 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/crosshair.tscn" id="2"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Crosshair" parent="." instance=ExtResource("2")]
+
+[node name="BalloonTimer" type="Timer" parent="."]
+process_callback = 0
+wait_time = 1.0
+autostart = true
+
+[connection signal="timeout" from="BalloonTimer" to="." method="_on_balloon_timer_timeout"]

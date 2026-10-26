@@ -1,0 +1,26 @@
+{
+ "prg": "SIEDLER.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Siedler.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/SIEDLER.FPG",
+   "converted": "fpg/siedler"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_pal",
+   "literal": "OLEGWASS.Pal"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Space.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/SIEDLER.FPG",
+ "system_font": "fnt/system"
+}

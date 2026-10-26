@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://cwnd7wg0ftb20"
+path="res://.godot/imported/font_bmfont.fnt-d4a60e9aa0f21a76b5e0aeda417686a5.fontdata"
+
+[deps]
+
+source_file="res://assets/fnt/thurpanz/font_bmfont.fnt"
+dest_files=["res://.godot/imported/font_bmfont.fnt-d4a60e9aa0f21a76b5e0aeda417686a5.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

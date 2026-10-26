@@ -1,0 +1,17 @@
+{
+ "prg": "ANT.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Ant.Fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/ANT.FPG",
+   "converted": "fpg/ant"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/ANT.FPG",
+ "system_font": "fnt/system"
+}

@@ -1,0 +1,10 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/spec_effect.gd" id="1"]
+
+[node name="SpecEffect" type="Node2D"]
+z_index = 0
+script = ExtResource("1")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+centered = false

@@ -1,0 +1,50 @@
+{
+ "prg": "S-TYPE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\S-Type.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/S-TYPE.FPG",
+   "converted": "fpg/s-type"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\S-Type.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/S-TYPE.FNT",
+   "converted": "fnt/s-type"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\S-Type2.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/S-TYPE2.FNT",
+   "converted": "fnt/s-type2"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\S-Type3.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/S-TYPE3.FNT",
+   "converted": "fnt/s-type3"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\S-Type4.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/S-TYPE4.FNT",
+   "converted": "fnt/s-type4"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load",
+   "literal": "saves\\S-Type.dat"
+  }
+ ],
+ "palette_from": "FPG/Olegs/S-TYPE.FPG",
+ "system_font": "fnt/system"
+}

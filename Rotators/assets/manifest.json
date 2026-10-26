@@ -1,0 +1,17 @@
+{
+ "prg": "SPACE2.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_map",
+   "literal": "Schluessel.map",
+   "kind": "map",
+   "resolved": "MAP/SCHLUESS.MAP",
+   "converted": "map/schluess"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "MAP/SCHLUESS.MAP",
+ "system_font": "fnt/system"
+}

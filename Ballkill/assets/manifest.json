@@ -1,0 +1,36 @@
+{
+ "prg": "BALLKILL.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Ballkill.Fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/BALLKILL.FPG",
+   "converted": "fpg/ballkill"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Ballkill.Fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/BALLKILL.FNT",
+   "converted": "fnt/ballkill"
+  },
+  {
+   "call": "save",
+   "literal": "Sav\\Ballkill.dat",
+   "kind": "dat",
+   "resolved": "DAT/BALLKILL.DAT",
+   "converted": "dat/ballkill.json"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load",
+   "literal": "Saves\\Ballkill.dat"
+  }
+ ],
+ "palette_from": "FPG/Olegs/BALLKILL.FPG",
+ "system_font": "fnt/system"
+}

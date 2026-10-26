@@ -1,0 +1,24 @@
+{
+ "prg": "MINICOSM.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Minicosm.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/MINICOSM.FPG",
+   "converted": "fpg/minicosm"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Minicosm.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/MINICOSM.FNT",
+   "converted": "fnt/minicosm"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/MINICOSM.FPG",
+ "system_font": "fnt/system"
+}

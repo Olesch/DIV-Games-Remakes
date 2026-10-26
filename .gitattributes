@@ -1,0 +1,20 @@
+# Normal text files (GDScript, scenes, JSON, Markdown, Python...) are normalised to LF in the repo.
+* text=auto
+
+# Shell scripts must stay LF (Git Bash), batch files CRLF (cmd.exe).
+*.sh   text eol=lf
+*.bat  text eol=crlf
+
+# Binary data used by the Godot projects: never convert line endings, never diff as text.
+*.bin  binary
+*.idx  binary
+*.dat  binary
+*.DAT  binary
+*.sav  binary
+*.SAV  binary
+*.res  binary
+*.png  binary
+*.wav  binary
+
+# The DIV originals (PRG = cp850 text with CRLF, FPG/FNT/MAP/PAL/DAT = binary) are kept byte-for-byte.
+/DIV/** -text

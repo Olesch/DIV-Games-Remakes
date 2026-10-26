@@ -1,0 +1,52 @@
+{
+ "prg": "CBRIDE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load",
+   "literal": "saves\\CbScore1.sav",
+   "kind": "dat",
+   "resolved": "Saves/CBSCORE1.SAV",
+   "converted": "dat/cbscore1.json"
+  },
+  {
+   "call": "load",
+   "literal": "saves\\CbScore2.sav",
+   "kind": "dat",
+   "resolved": "Saves/CBSCORE2.SAV",
+   "converted": "dat/cbscore2.json"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Mini2.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/MINI2.FPG",
+   "converted": "fpg/mini2"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Mini2.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/MINI2.FNT",
+   "converted": "fnt/mini2"
+  },
+  {
+   "call": "save",
+   "literal": "saves\\CbScore1.sav",
+   "kind": "dat",
+   "resolved": "Saves/CBSCORE1.SAV",
+   "converted": "dat/cbscore1.json"
+  },
+  {
+   "call": "save",
+   "literal": "saves\\CbScore2.sav",
+   "kind": "dat",
+   "resolved": "Saves/CBSCORE2.SAV",
+   "converted": "dat/cbscore2.json"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/MINI2.FPG",
+ "system_font": "fnt/system"
+}

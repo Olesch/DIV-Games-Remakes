@@ -1,0 +1,22 @@
+{
+ "prg": "BALLS.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Ball.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/BALL.FPG",
+   "converted": "fpg/ball"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Mini2.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/BALL.FPG",
+ "system_font": "fnt/system"
+}

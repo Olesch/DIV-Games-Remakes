@@ -1,0 +1,24 @@
+{
+ "prg": "UNDWORLD.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\UndWorld.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/UNDWORLD.FPG",
+   "converted": "fpg/undworld"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\UndWorld.FNT",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/UNDWORLD.FNT",
+   "converted": "fnt/undworld"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/UNDWORLD.FPG",
+ "system_font": "fnt/system"
+}

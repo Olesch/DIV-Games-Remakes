@@ -1,0 +1,2979 @@
+{
+ "type": "fpg",
+ "source": "CASTLE.FPG",
+ "format": 1,
+ "palette_rgb8": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   16,
+   16,
+   16
+  ],
+  [
+   32,
+   32,
+   32
+  ],
+  [
+   48,
+   48,
+   48
+  ],
+  [
+   65,
+   65,
+   65
+  ],
+  [
+   85,
+   85,
+   85
+  ],
+  [
+   101,
+   101,
+   101
+  ],
+  [
+   117,
+   117,
+   117
+  ],
+  [
+   134,
+   134,
+   134
+  ],
+  [
+   150,
+   150,
+   150
+  ],
+  [
+   170,
+   170,
+   170
+  ],
+  [
+   186,
+   186,
+   186
+  ],
+  [
+   203,
+   203,
+   203
+  ],
+  [
+   219,
+   219,
+   219
+  ],
+  [
+   235,
+   235,
+   235
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   40,
+   0,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   109,
+   0,
+   0
+  ],
+  [
+   146,
+   0,
+   0
+  ],
+  [
+   182,
+   0,
+   0
+  ],
+  [
+   219,
+   0,
+   0
+  ],
+  [
+   255,
+   0,
+   0
+  ],
+  [
+   255,
+   32,
+   0
+  ],
+  [
+   255,
+   65,
+   0
+  ],
+  [
+   255,
+   97,
+   0
+  ],
+  [
+   255,
+   130,
+   0
+  ],
+  [
+   255,
+   162,
+   0
+  ],
+  [
+   255,
+   182,
+   56
+  ],
+  [
+   255,
+   203,
+   113
+  ],
+  [
+   255,
+   223,
+   170
+  ],
+  [
+   255,
+   243,
+   227
+  ],
+  [
+   0,
+   40,
+   0
+  ],
+  [
+   0,
+   60,
+   0
+  ],
+  [
+   0,
+   85,
+   0
+  ],
+  [
+   0,
+   109,
+   0
+  ],
+  [
+   0,
+   134,
+   0
+  ],
+  [
+   0,
+   158,
+   0
+  ],
+  [
+   0,
+   182,
+   0
+  ],
+  [
+   0,
+   207,
+   0
+  ],
+  [
+   0,
+   231,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ],
+  [
+   48,
+   255,
+   32
+  ],
+  [
+   97,
+   255,
+   65
+  ],
+  [
+   146,
+   255,
+   97
+  ],
+  [
+   195,
+   255,
+   134
+  ],
+  [
+   219,
+   255,
+   178
+  ],
+  [
+   243,
+   255,
+   223
+  ],
+  [
+   0,
+   0,
+   40
+  ],
+  [
+   0,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   105
+  ],
+  [
+   0,
+   0,
+   142
+  ],
+  [
+   0,
+   0,
+   174
+  ],
+  [
+   0,
+   0,
+   211
+  ],
+  [
+   0,
+   0,
+   255
+  ],
+  [
+   0,
+   48,
+   255
+  ],
+  [
+   0,
+   101,
+   255
+  ],
+  [
+   0,
+   150,
+   255
+  ],
+  [
+   0,
+   203,
+   255
+  ],
+  [
+   0,
+   255,
+   255
+  ],
+  [
+   56,
+   255,
+   255
+  ],
+  [
+   113,
+   255,
+   255
+  ],
+  [
+   170,
+   255,
+   255
+  ],
+  [
+   227,
+   255,
+   255
+  ],
+  [
+   28,
+   28,
+   0
+  ],
+  [
+   52,
+   52,
+   0
+  ],
+  [
+   77,
+   77,
+   0
+  ],
+  [
+   101,
+   101,
+   0
+  ],
+  [
+   125,
+   125,
+   0
+  ],
+  [
+   154,
+   154,
+   0
+  ],
+  [
+   178,
+   178,
+   0
+  ],
+  [
+   203,
+   203,
+   0
+  ],
+  [
+   227,
+   227,
+   0
+  ],
+  [
+   255,
+   255,
+   0
+  ],
+  [
+   255,
+   255,
+   36
+  ],
+  [
+   255,
+   255,
+   73
+  ],
+  [
+   255,
+   255,
+   109
+  ],
+  [
+   255,
+   255,
+   146
+  ],
+  [
+   255,
+   255,
+   182
+  ],
+  [
+   255,
+   255,
+   223
+  ],
+  [
+   28,
+   0,
+   28
+  ],
+  [
+   52,
+   0,
+   52
+  ],
+  [
+   77,
+   0,
+   77
+  ],
+  [
+   101,
+   0,
+   101
+  ],
+  [
+   125,
+   0,
+   125
+  ],
+  [
+   154,
+   0,
+   154
+  ],
+  [
+   178,
+   0,
+   178
+  ],
+  [
+   203,
+   0,
+   203
+  ],
+  [
+   227,
+   0,
+   227
+  ],
+  [
+   255,
+   0,
+   255
+  ],
+  [
+   255,
+   36,
+   255
+  ],
+  [
+   255,
+   73,
+   255
+  ],
+  [
+   255,
+   113,
+   255
+  ],
+  [
+   255,
+   150,
+   255
+  ],
+  [
+   255,
+   186,
+   255
+  ],
+  [
+   255,
+   227,
+   255
+  ],
+  [
+   0,
+   20,
+   20
+  ],
+  [
+   0,
+   40,
+   40
+  ],
+  [
+   0,
+   60,
+   60
+  ],
+  [
+   0,
+   81,
+   81
+  ],
+  [
+   0,
+   105,
+   101
+  ],
+  [
+   0,
+   125,
+   121
+  ],
+  [
+   0,
+   146,
+   146
+  ],
+  [
+   0,
+   166,
+   166
+  ],
+  [
+   0,
+   190,
+   186
+  ],
+  [
+   0,
+   211,
+   207
+  ],
+  [
+   0,
+   231,
+   227
+  ],
+  [
+   0,
+   255,
+   251
+  ],
+  [
+   44,
+   255,
+   251
+  ],
+  [
+   93,
+   255,
+   251
+  ],
+  [
+   142,
+   255,
+   251
+  ],
+  [
+   190,
+   255,
+   251
+  ],
+  [
+   24,
+   12,
+   0
+  ],
+  [
+   44,
+   24,
+   0
+  ],
+  [
+   65,
+   36,
+   0
+  ],
+  [
+   85,
+   48,
+   0
+  ],
+  [
+   109,
+   60,
+   0
+  ],
+  [
+   130,
+   73,
+   0
+  ],
+  [
+   150,
+   85,
+   0
+  ],
+  [
+   170,
+   97,
+   0
+  ],
+  [
+   195,
+   113,
+   0
+  ],
+  [
+   199,
+   130,
+   28
+  ],
+  [
+   207,
+   146,
+   60
+  ],
+  [
+   215,
+   162,
+   93
+  ],
+  [
+   219,
+   182,
+   121
+  ],
+  [
+   227,
+   199,
+   154
+  ],
+  [
+   235,
+   215,
+   186
+  ],
+  [
+   243,
+   235,
+   219
+  ],
+  [
+   24,
+   12,
+   12
+  ],
+  [
+   40,
+   20,
+   20
+  ],
+  [
+   60,
+   32,
+   32
+  ],
+  [
+   81,
+   44,
+   44
+  ],
+  [
+   97,
+   52,
+   52
+  ],
+  [
+   117,
+   65,
+   65
+  ],
+  [
+   138,
+   77,
+   77
+  ],
+  [
+   158,
+   89,
+   89
+  ],
+  [
+   178,
+   105,
+   105
+  ],
+  [
+   199,
+   121,
+   121
+  ],
+  [
+   219,
+   138,
+   138
+  ],
+  [
+   243,
+   154,
+   154
+  ],
+  [
+   243,
+   170,
+   170
+  ],
+  [
+   247,
+   190,
+   190
+  ],
+  [
+   247,
+   207,
+   207
+  ],
+  [
+   251,
+   227,
+   227
+  ],
+  [
+   24,
+   20,
+   12
+  ],
+  [
+   44,
+   36,
+   24
+  ],
+  [
+   69,
+   52,
+   36
+  ],
+  [
+   89,
+   73,
+   48
+  ],
+  [
+   113,
+   89,
+   60
+  ],
+  [
+   134,
+   105,
+   73
+  ],
+  [
+   158,
+   125,
+   89
+  ],
+  [
+   174,
+   142,
+   101
+  ],
+  [
+   190,
+   158,
+   113
+  ],
+  [
+   207,
+   178,
+   125
+  ],
+  [
+   223,
+   195,
+   138
+  ],
+  [
+   243,
+   215,
+   154
+  ],
+  [
+   243,
+   219,
+   170
+  ],
+  [
+   247,
+   227,
+   190
+  ],
+  [
+   247,
+   235,
+   207
+  ],
+  [
+   251,
+   243,
+   227
+  ],
+  [
+   32,
+   8,
+   0
+  ],
+  [
+   60,
+   16,
+   0
+  ],
+  [
+   89,
+   28,
+   0
+  ],
+  [
+   121,
+   36,
+   0
+  ],
+  [
+   150,
+   48,
+   0
+  ],
+  [
+   178,
+   56,
+   0
+  ],
+  [
+   211,
+   69,
+   0
+  ],
+  [
+   219,
+   89,
+   0
+  ],
+  [
+   227,
+   113,
+   0
+  ],
+  [
+   235,
+   138,
+   0
+  ],
+  [
+   243,
+   162,
+   0
+  ],
+  [
+   255,
+   186,
+   0
+  ],
+  [
+   255,
+   203,
+   56
+  ],
+  [
+   255,
+   219,
+   113
+  ],
+  [
+   255,
+   235,
+   170
+  ],
+  [
+   255,
+   255,
+   227
+  ],
+  [
+   20,
+   12,
+   12
+  ],
+  [
+   36,
+   24,
+   24
+  ],
+  [
+   56,
+   36,
+   36
+  ],
+  [
+   73,
+   48,
+   48
+  ],
+  [
+   93,
+   65,
+   65
+  ],
+  [
+   109,
+   77,
+   77
+  ],
+  [
+   130,
+   89,
+   89
+  ],
+  [
+   146,
+   101,
+   101
+  ],
+  [
+   166,
+   117,
+   117
+  ],
+  [
+   174,
+   134,
+   134
+  ],
+  [
+   186,
+   150,
+   150
+  ],
+  [
+   195,
+   166,
+   166
+  ],
+  [
+   207,
+   182,
+   182
+  ],
+  [
+   215,
+   199,
+   199
+  ],
+  [
+   227,
+   215,
+   215
+  ],
+  [
+   239,
+   235,
+   235
+  ],
+  [
+   12,
+   20,
+   12
+  ],
+  [
+   24,
+   36,
+   24
+  ],
+  [
+   36,
+   56,
+   36
+  ],
+  [
+   48,
+   73,
+   48
+  ],
+  [
+   65,
+   93,
+   65
+  ],
+  [
+   77,
+   109,
+   77
+  ],
+  [
+   89,
+   130,
+   89
+  ],
+  [
+   101,
+   146,
+   101
+  ],
+  [
+   117,
+   166,
+   117
+  ],
+  [
+   134,
+   174,
+   134
+  ],
+  [
+   150,
+   186,
+   150
+  ],
+  [
+   166,
+   195,
+   166
+  ],
+  [
+   182,
+   207,
+   182
+  ],
+  [
+   199,
+   215,
+   199
+  ],
+  [
+   215,
+   227,
+   215
+  ],
+  [
+   235,
+   239,
+   235
+  ],
+  [
+   12,
+   12,
+   16
+  ],
+  [
+   24,
+   24,
+   32
+  ],
+  [
+   36,
+   36,
+   48
+  ],
+  [
+   48,
+   48,
+   65
+  ],
+  [
+   65,
+   65,
+   81
+  ],
+  [
+   77,
+   77,
+   97
+  ],
+  [
+   89,
+   89,
+   113
+  ],
+  [
+   101,
+   101,
+   130
+  ],
+  [
+   117,
+   117,
+   150
+  ],
+  [
+   134,
+   134,
+   162
+  ],
+  [
+   150,
+   150,
+   174
+  ],
+  [
+   166,
+   166,
+   186
+  ],
+  [
+   182,
+   182,
+   199
+  ],
+  [
+   199,
+   199,
+   211
+  ],
+  [
+   215,
+   215,
+   223
+  ],
+  [
+   235,
+   235,
+   239
+  ],
+  [
+   40,
+   0,
+   0
+  ],
+  [
+   81,
+   0,
+   0
+  ],
+  [
+   125,
+   0,
+   0
+  ],
+  [
+   166,
+   0,
+   0
+  ],
+  [
+   211,
+   0,
+   0
+  ],
+  [
+   255,
+   0,
+   0
+  ],
+  [
+   255,
+   40,
+   0
+  ],
+  [
+   255,
+   85,
+   0
+  ],
+  [
+   255,
+   125,
+   0
+  ],
+  [
+   255,
+   170,
+   0
+  ],
+  [
+   255,
+   211,
+   0
+  ],
+  [
+   255,
+   255,
+   0
+  ],
+  [
+   255,
+   255,
+   44
+  ],
+  [
+   255,
+   255,
+   93
+  ],
+  [
+   255,
+   255,
+   142
+  ],
+  [
+   255,
+   255,
+   190
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   89
+  ],
+  [
+   0,
+   0,
+   130
+  ],
+  [
+   0,
+   0,
+   170
+  ],
+  [
+   0,
+   0,
+   211
+  ],
+  [
+   0,
+   0,
+   251
+  ],
+  [
+   40,
+   0,
+   251
+  ],
+  [
+   85,
+   0,
+   251
+  ],
+  [
+   125,
+   0,
+   251
+  ],
+  [
+   170,
+   0,
+   251
+  ],
+  [
+   211,
+   0,
+   251
+  ],
+  [
+   255,
+   0,
+   255
+  ],
+  [
+   255,
+   52,
+   255
+  ],
+  [
+   255,
+   109,
+   255
+  ],
+  [
+   255,
+   166,
+   255
+  ],
+  [
+   255,
+   223,
+   255
+  ]
+ ],
+ "graphics": [
+  {
+   "code": 100,
+   "name": "Level 800*600",
+   "filename": "Map 1",
+   "width": 800,
+   "height": 600,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 0,
+   "png": "100.png"
+  },
+  {
+   "code": 101,
+   "name": "Floora",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 480000,
+   "png": "101.png"
+  },
+  {
+   "code": 102,
+   "name": "Floorb",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 480400,
+   "png": "102.png"
+  },
+  {
+   "code": 103,
+   "name": "Floorc",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 480800,
+   "png": "103.png"
+  },
+  {
+   "code": 104,
+   "name": "Floord",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 481200,
+   "png": "104.png"
+  },
+  {
+   "code": 110,
+   "name": "Walla",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 481600,
+   "png": "110.png"
+  },
+  {
+   "code": 111,
+   "name": "Wallb",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 482000,
+   "png": "111.png"
+  },
+  {
+   "code": 112,
+   "name": "Wallc",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 482400,
+   "png": "112.png"
+  },
+  {
+   "code": 113,
+   "name": "Walld",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 482800,
+   "png": "113.png"
+  },
+  {
+   "code": 1,
+   "name": "Hero^Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 483200,
+   "png": "1.png"
+  },
+  {
+   "code": 2,
+   "name": "Hero^Phase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 483600,
+   "png": "2.png"
+  },
+  {
+   "code": 3,
+   "name": "Hero^Phase3",
+   "filename": "Map 17",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 484000,
+   "png": "3.png"
+  },
+  {
+   "code": 4,
+   "name": "Hero^Attack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 484400,
+   "png": "4.png"
+  },
+  {
+   "code": 21,
+   "name": "HeroVPhase1",
+   "filename": "Map 25",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 484800,
+   "png": "21.png"
+  },
+  {
+   "code": 22,
+   "name": "HeroVPhase2",
+   "filename": "Map 28",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 485200,
+   "png": "22.png"
+  },
+  {
+   "code": 23,
+   "name": "HeroVPhase3",
+   "filename": "Map 30",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 485600,
+   "png": "23.png"
+  },
+  {
+   "code": 24,
+   "name": "HeroVAttack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 486000,
+   "png": "24.png"
+  },
+  {
+   "code": 11,
+   "name": "Hero>Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 486400,
+   "png": "11.png"
+  },
+  {
+   "code": 12,
+   "name": "Hero>Phase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 486800,
+   "png": "12.png"
+  },
+  {
+   "code": 31,
+   "name": "Hero<Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 487200,
+   "png": "31.png"
+  },
+  {
+   "code": 32,
+   "name": "Hero<Phase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 487600,
+   "png": "32.png"
+  },
+  {
+   "code": 13,
+   "name": "Hero>Phase3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 488000,
+   "png": "13.png"
+  },
+  {
+   "code": 14,
+   "name": "Hero>Attack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 488400,
+   "png": "14.png"
+  },
+  {
+   "code": 34,
+   "name": "Hero<Attack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 488800,
+   "png": "34.png"
+  },
+  {
+   "code": 33,
+   "name": "Hero<Phase3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 489200,
+   "png": "33.png"
+  },
+  {
+   "code": 200,
+   "name": "Enemy1>Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 489600,
+   "png": "200.png"
+  },
+  {
+   "code": 201,
+   "name": "Enemy1>Phase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 490000,
+   "png": "201.png"
+  },
+  {
+   "code": 202,
+   "name": "Enemy1>Phase3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 490400,
+   "png": "202.png"
+  },
+  {
+   "code": 203,
+   "name": "Enemy1>Attack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 490800,
+   "png": "203.png"
+  },
+  {
+   "code": 41,
+   "name": "Hero Sword\"shot\"",
+   "filename": "Map 1",
+   "width": 1,
+   "height": 1,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 491200,
+   "png": "41.png"
+  },
+  {
+   "code": 50,
+   "name": "Blood",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 5,
+   "cp0": [
+    10,
+    2
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 491201,
+   "png": "50.png"
+  },
+  {
+   "code": 51,
+   "name": "LifeBalken",
+   "filename": "Map 3",
+   "width": 800,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 491301,
+   "png": "51.png"
+  },
+  {
+   "code": 60,
+   "name": "Potion",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507301,
+   "png": "60.png"
+  },
+  {
+   "code": 43,
+   "name": "Bow>",
+   "filename": "Map 2",
+   "width": 10,
+   "height": 3,
+   "cp0": [
+    5,
+    1
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507701,
+   "png": "43.png"
+  },
+  {
+   "code": 45,
+   "name": "Bow<",
+   "filename": "Map 2",
+   "width": 10,
+   "height": 3,
+   "cp0": [
+    5,
+    1
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507731,
+   "png": "45.png"
+  },
+  {
+   "code": 42,
+   "name": "Bow^",
+   "filename": "Map 3",
+   "width": 3,
+   "height": 10,
+   "cp0": [
+    1,
+    5
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507761,
+   "png": "42.png"
+  },
+  {
+   "code": 44,
+   "name": "BowV",
+   "filename": "Map 3",
+   "width": 3,
+   "height": 10,
+   "cp0": [
+    1,
+    5
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507791,
+   "png": "44.png"
+  },
+  {
+   "code": 46,
+   "name": "FlameBall",
+   "filename": "Map 4",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507821,
+   "png": "46.png"
+  },
+  {
+   "code": 55,
+   "name": "Sword",
+   "filename": "Map 4",
+   "width": 27,
+   "height": 27,
+   "cp0": [
+    13,
+    13
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 507870,
+   "png": "55.png"
+  },
+  {
+   "code": 56,
+   "name": "Bow",
+   "filename": "Map 6",
+   "width": 28,
+   "height": 28,
+   "cp0": [
+    14,
+    14
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 508599,
+   "png": "56.png"
+  },
+  {
+   "code": 57,
+   "name": "Flame",
+   "filename": "Map 5",
+   "width": 29,
+   "height": 28,
+   "cp0": [
+    14,
+    14
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 509383,
+   "png": "57.png"
+  },
+  {
+   "code": 61,
+   "name": "StrongPotion",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 510195,
+   "png": "61.png"
+  },
+  {
+   "code": 63,
+   "name": "ManaPotion",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 510595,
+   "png": "63.png"
+  },
+  {
+   "code": 64,
+   "name": "StrongManaPotion",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 510995,
+   "png": "64.png"
+  },
+  {
+   "code": 66,
+   "name": "2 Aroows",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 511395,
+   "png": "66.png"
+  },
+  {
+   "code": 67,
+   "name": "Many Arrows",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 511795,
+   "png": "67.png"
+  },
+  {
+   "code": 69,
+   "name": "Shield++",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 512195,
+   "png": "69.png"
+  },
+  {
+   "code": 120,
+   "name": "SchiessScharte",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 512595,
+   "png": "120.png"
+  },
+  {
+   "code": 205,
+   "name": "OrkArcher>Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 512995,
+   "png": "205.png"
+  },
+  {
+   "code": 206,
+   "name": "OrkArcher>Phase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 513395,
+   "png": "206.png"
+  },
+  {
+   "code": 207,
+   "name": "OrkArcher>Phase3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 513795,
+   "png": "207.png"
+  },
+  {
+   "code": 208,
+   "name": "OrkArcher>Phase4",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 514195,
+   "png": "208.png"
+  },
+  {
+   "code": 210,
+   "name": "HelmetOrk>Phase1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 514595,
+   "png": "210.png"
+  },
+  {
+   "code": 211,
+   "name": "HelmetOrkPhase2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 514995,
+   "png": "211.png"
+  },
+  {
+   "code": 212,
+   "name": "HelmetOrk>Phase3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 515395,
+   "png": "212.png"
+  },
+  {
+   "code": 213,
+   "name": "HelmetOrk>Attack",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 515795,
+   "png": "213.png"
+  },
+  {
+   "code": 119,
+   "name": "Kiste",
+   "filename": "Map 1",
+   "width": 18,
+   "height": 18,
+   "cp0": [
+    9,
+    9
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 516195,
+   "png": "119.png"
+  },
+  {
+   "code": 215,
+   "name": "Ogre>Ph1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 516519,
+   "png": "215.png"
+  },
+  {
+   "code": 216,
+   "name": "Ogre>Ph2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 516919,
+   "png": "216.png"
+  },
+  {
+   "code": 217,
+   "name": "Ogre>Ph3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 517319,
+   "png": "217.png"
+  },
+  {
+   "code": 218,
+   "name": "Ogre>Ata",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 517719,
+   "png": "218.png"
+  },
+  {
+   "code": 127,
+   "name": "Goldkey",
+   "filename": "Map 2",
+   "width": 10,
+   "height": 15,
+   "cp0": [
+    5,
+    7
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 518119,
+   "png": "127.png"
+  },
+  {
+   "code": 128,
+   "name": "Silverkey",
+   "filename": "Map 1",
+   "width": 10,
+   "height": 15,
+   "cp0": [
+    5,
+    7
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 518269,
+   "png": "128.png"
+  },
+  {
+   "code": 125,
+   "name": "Need GoldKey",
+   "filename": "Map 3",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 518419,
+   "png": "125.png"
+  },
+  {
+   "code": 126,
+   "name": "Need Silverkey",
+   "filename": "Map 3",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 518819,
+   "png": "126.png"
+  },
+  {
+   "code": 220,
+   "name": "Orkheld>Ph1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 519219,
+   "png": "220.png"
+  },
+  {
+   "code": 221,
+   "name": "Orkheld>ph2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 519619,
+   "png": "221.png"
+  },
+  {
+   "code": 222,
+   "name": "Orkheld>Ph3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 520019,
+   "png": "222.png"
+  },
+  {
+   "code": 223,
+   "name": "OrkHeld>Ata",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 520419,
+   "png": "223.png"
+  },
+  {
+   "code": 130,
+   "name": "Falltuer",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 520819,
+   "png": "130.png"
+  },
+  {
+   "code": 99,
+   "name": "Red Ball",
+   "filename": "Map 1",
+   "width": 100,
+   "height": 100,
+   "cp0": [
+    50,
+    50
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 521219,
+   "png": "99.png"
+  },
+  {
+   "code": 72,
+   "name": "Savepoint",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 531219,
+   "png": "72.png"
+  },
+  {
+   "code": 225,
+   "name": "Ghost>Ph1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 531619,
+   "png": "225.png"
+  },
+  {
+   "code": 226,
+   "name": "Ghost>Ph2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 532019,
+   "png": "226.png"
+  },
+  {
+   "code": 227,
+   "name": "Ghost>Ph3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 532419,
+   "png": "227.png"
+  },
+  {
+   "code": 228,
+   "name": "Ghost>ata",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 532819,
+   "png": "228.png"
+  },
+  {
+   "code": 131,
+   "name": "Falltueropener",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 533219,
+   "png": "131.png"
+  },
+  {
+   "code": 74,
+   "name": "Allhealer",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 533619,
+   "png": "74.png"
+  },
+  {
+   "code": 121,
+   "name": "Duenne SchiessScharte",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 534019,
+   "png": "121.png"
+  },
+  {
+   "code": 132,
+   "name": "Slime",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 534419,
+   "png": "132.png"
+  },
+  {
+   "code": 850,
+   "name": "EditRaster",
+   "filename": "Map 1",
+   "width": 800,
+   "height": 600,
+   "cp0": [
+    400,
+    300
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 534819,
+   "png": "850.png"
+  },
+  {
+   "code": 135,
+   "name": "EditorFalltuerauf",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 1014819,
+   "png": "135.png"
+  },
+  {
+   "code": 136,
+   "name": "Editor geheimerdurchgang",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 1015219,
+   "png": "136.png"
+  },
+  {
+   "code": 851,
+   "name": "Floorchooser",
+   "filename": "Map 1",
+   "width": 800,
+   "height": 600,
+   "cp0": [
+    400,
+    300
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1015619,
+   "png": "851.png"
+  },
+  {
+   "code": 860,
+   "name": "Editorzeiger",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1495619,
+   "png": "860.png"
+  },
+  {
+   "code": 853,
+   "name": "Back",
+   "filename": "Map 1",
+   "width": 800,
+   "height": 600,
+   "cp0": [
+    400,
+    300
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1496019,
+   "png": "853.png"
+  },
+  {
+   "code": 134,
+   "name": "EditorFalltuerschliesser",
+   "filename": "Map 5",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 1976019,
+   "png": "134.png"
+  },
+  {
+   "code": 230,
+   "name": "Steinschleuder>Ph1",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1976419,
+   "png": "230.png"
+  },
+  {
+   "code": 231,
+   "name": "Steinschleuder>Ph2",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1976819,
+   "png": "231.png"
+  },
+  {
+   "code": 232,
+   "name": "Steinschleuder>Ph3",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1977219,
+   "png": "232.png"
+  },
+  {
+   "code": 233,
+   "name": "Steinschleuder>Ata",
+   "filename": "Map 15",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1977619,
+   "png": "233.png"
+  },
+  {
+   "code": 47,
+   "name": "Stone",
+   "filename": "Map 7",
+   "width": 5,
+   "height": 5,
+   "cp0": [
+    2,
+    2
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1978019,
+   "png": "47.png"
+  },
+  {
+   "code": 48,
+   "name": "IceBall",
+   "filename": "Map 4",
+   "width": 7,
+   "height": 7,
+   "cp0": [
+    3,
+    3
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1978044,
+   "png": "48.png"
+  },
+  {
+   "code": 58,
+   "name": "Iceballs field",
+   "filename": "Map 1",
+   "width": 29,
+   "height": 28,
+   "cp0": [
+    14,
+    14
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1978093,
+   "png": "58.png"
+  },
+  {
+   "code": 59,
+   "name": "HealField",
+   "filename": "Map 2",
+   "width": 29,
+   "height": 28,
+   "cp0": [
+    14,
+    14
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 1978905,
+   "png": "59.png"
+  },
+  {
+   "code": 54,
+   "name": "Parchement",
+   "filename": "Map 1",
+   "width": 400,
+   "height": 300,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 1979717,
+   "png": "54.png"
+  },
+  {
+   "code": 75,
+   "name": "FlameScroll",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2099717,
+   "png": "75.png"
+  },
+  {
+   "code": 76,
+   "name": "IceScroll",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2100117,
+   "png": "76.png"
+  },
+  {
+   "code": 77,
+   "name": "HealScroll",
+   "filename": "Map 3",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2100517,
+   "png": "77.png"
+  },
+  {
+   "code": 78,
+   "name": "SChwertskill++",
+   "filename": "Map 1",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2100917,
+   "png": "78.png"
+  },
+  {
+   "code": 79,
+   "name": "BowSkill++",
+   "filename": "Map 3",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2101317,
+   "png": "79.png"
+  },
+  {
+   "code": 80,
+   "name": "ManaSkill++",
+   "filename": "Map 2",
+   "width": 20,
+   "height": 20,
+   "cp0": [
+    10,
+    10
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2101717,
+   "png": "80.png"
+  },
+  {
+   "code": 852,
+   "name": "Objectchooser",
+   "filename": "Map 1",
+   "width": 800,
+   "height": 600,
+   "cp0": [
+    400,
+    300
+   ],
+   "cp0_defined": false,
+   "points": [],
+   "offset": 2102117,
+   "png": "852.png"
+  },
+  {
+   "code": 53,
+   "name": "AusdauerBalken",
+   "filename": "Map 3",
+   "width": 800,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 2582117,
+   "png": "53.png"
+  },
+  {
+   "code": 52,
+   "name": "Manabalken",
+   "filename": "Map 3",
+   "width": 800,
+   "height": 20,
+   "cp0": [
+    0,
+    0
+   ],
+   "cp0_defined": true,
+   "points": [
+    [
+     0,
+     0
+    ]
+   ],
+   "offset": 2598117,
+   "png": "52.png"
+  }
+ ]
+}

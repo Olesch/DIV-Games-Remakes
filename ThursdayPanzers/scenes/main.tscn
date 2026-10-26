@@ -1,0 +1,80 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+[ext_resource type="Shader" path="res://scripts/ground.gdshader" id="2"]
+[ext_resource type="Script" path="res://scripts/hud.gd" id="3"]
+[ext_resource type="Script" path="res://scripts/pixel_label.gd" id="4"]
+
+[sub_resource type="ShaderMaterial" id="1"]
+shader = ExtResource("2")
+
+[node name="Main" type="Node"]
+script = ExtResource("1")
+
+[node name="LeftContainer" type="SubViewportContainer" parent="."]
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 395.0
+offset_bottom = 595.0
+stretch = true
+
+[node name="LeftView" type="SubViewport" parent="LeftContainer"]
+handle_input_locally = false
+size = Vector2i(390, 590)
+render_target_update_mode = 4
+
+[node name="World" type="Node2D" parent="LeftContainer/LeftView"]
+
+[node name="Ground" type="Sprite2D" parent="LeftContainer/LeftView/World"]
+z_index = -10
+material = SubResource("1")
+centered = false
+
+[node name="Camera" type="Camera2D" parent="LeftContainer/LeftView"]
+process_callback = 0
+
+[node name="RightContainer" type="SubViewportContainer" parent="."]
+offset_left = 405.0
+offset_top = 5.0
+offset_right = 795.0
+offset_bottom = 595.0
+stretch = true
+
+[node name="RightView" type="SubViewport" parent="RightContainer"]
+handle_input_locally = false
+size = Vector2i(390, 590)
+render_target_update_mode = 4
+
+[node name="Camera" type="Camera2D" parent="RightContainer/RightView"]
+process_callback = 0
+
+[node name="Hud" type="CanvasLayer" parent="."]
+script = ExtResource("3")
+
+[node name="Life1" type="Label" parent="Hud"]
+offset_left = 0.0
+offset_top = 0.0
+script = ExtResource("4")
+
+[node name="Life2" type="Label" parent="Hud"]
+offset_left = 800.0
+offset_top = 0.0
+script = ExtResource("4")
+align_code = 2
+
+[node name="Team1" type="Label" parent="Hud"]
+offset_left = 0.0
+offset_top = 20.0
+script = ExtResource("4")
+
+[node name="Team2" type="Label" parent="Hud"]
+offset_left = 800.0
+offset_top = 20.0
+script = ExtResource("4")
+align_code = 2
+
+[node name="Winner" type="Label" parent="Hud"]
+offset_left = 400.0
+offset_top = 300.0
+script = ExtResource("4")
+align_code = 4

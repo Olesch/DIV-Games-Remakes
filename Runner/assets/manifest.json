@@ -1,0 +1,24 @@
+{
+ "prg": "RUNNER.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Runner.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/RUNNER.FPG",
+   "converted": "fpg/runner"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Runner.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/RUNNER.FNT",
+   "converted": "fnt/runner"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/RUNNER.FPG",
+ "system_font": "fnt/system"
+}

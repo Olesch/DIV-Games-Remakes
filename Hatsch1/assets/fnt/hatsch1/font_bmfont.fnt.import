@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://fuw2lrvvvris"
+path="res://.godot/imported/font_bmfont.fnt-244e57da740ec47483e760d861d63677.fontdata"
+
+[deps]
+
+source_file="res://assets/fnt/hatsch1/font_bmfont.fnt"
+dest_files=["res://.godot/imported/font_bmfont.fnt-244e57da740ec47483e760d861d63677.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

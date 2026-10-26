@@ -1,0 +1,33 @@
+{
+ "prg": "ATOMS.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Atoms.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/ATOMS.FPG",
+   "converted": "fpg/atoms"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Atoms.FNT",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/ATOMS.FNT",
+   "converted": "fnt/atoms"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "save",
+   "literal": "Saves\\ATSCEA.DAT"
+  },
+  {
+   "call": "save",
+   "literal": "Saves\\ATSCHA.DAT"
+  }
+ ],
+ "palette_from": "FPG/Olegs/ATOMS.FPG",
+ "system_font": "fnt/system"
+}

@@ -1,0 +1,22 @@
+{
+ "prg": "MINISHIP.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Miniship.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/MINISHIP.FPG",
+   "converted": "fpg/miniship"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\S-Type.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/MINISHIP.FPG",
+ "system_font": "fnt/system"
+}

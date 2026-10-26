@@ -1,0 +1,25 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="Script" path="res://scripts/board_view.gd" id="2_board"]
+[ext_resource type="Script" path="res://scripts/cursor.gd" id="3_cursor"]
+[ext_resource type="Texture2D" path="res://assets/fpg/atoms/2.png" id="4_cursor"]
+[ext_resource type="Texture2D" path="res://assets/fpg/atoms/4.png" id="5_rules"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_main")
+
+[node name="Board" type="Node2D" parent="."]
+script = ExtResource("2_board")
+
+[node name="Rules" type="Sprite2D" parent="."]
+texture = ExtResource("5_rules")
+centered = false
+
+[node name="Cursor" type="Sprite2D" parent="."]
+texture = ExtResource("4_cursor")
+centered = false
+offset = Vector2(-20, -20)
+script = ExtResource("3_cursor")
+
+[node name="Texts" type="CanvasLayer" parent="."]

@@ -1,0 +1,17 @@
+{
+ "prg": "FORTKEEP.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "olegs\\Fortkeep.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/FORTKEEP.FPG",
+   "converted": "fpg/fortkeep"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/FORTKEEP.FPG",
+ "system_font": "fnt/system"
+}

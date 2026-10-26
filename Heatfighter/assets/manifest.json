@@ -1,0 +1,51 @@
+{
+ "prg": "HEATFIGH.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Heatfigh.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HEATFIGH.FPG",
+   "converted": "fpg/heatfigh"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\HfTemp.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HFTEMP.FPG",
+   "converted": "fpg/hftemp"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\HfChain.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HFCHAIN.FPG",
+   "converted": "fpg/hfchain"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\HfEigen.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HFEIGEN.FPG",
+   "converted": "fpg/hfeigen"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\HfClaw.fpg"
+  },
+  {
+   "call": "load_map",
+   "literal": "Claw.map"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Arena.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/HEATFIGH.FPG",
+ "system_font": "fnt/system"
+}

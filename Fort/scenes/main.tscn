@@ -1,0 +1,32 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/fort.tscn" id="2"]
+[ext_resource type="Script" path="res://scripts/cursor.gd" id="3"]
+[ext_resource type="Texture2D" path="res://assets/fpg/fortkeep/2.png" id="4"]
+[ext_resource type="FontFile" path="res://assets/fnt/system/font_bmfont.fnt" id="5"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Fort" parent="." instance=ExtResource("2")]
+
+[node name="SpawnTimer" type="Timer" parent="."]
+
+[node name="Hud" type="CanvasLayer" parent="."]
+
+[node name="DamageLabel" type="Label" parent="Hud"]
+offset_left = 8.0
+offset_top = 8.0
+theme_override_fonts/font = ExtResource("5")
+theme_override_font_sizes/font_size = 8
+text = "Schaden: 0"
+
+[node name="CursorLayer" type="CanvasLayer" parent="."]
+layer = 2
+
+[node name="Cursor" type="Sprite2D" parent="CursorLayer"]
+texture = ExtResource("4")
+centered = false
+offset = Vector2(-7, -7)
+script = ExtResource("3")

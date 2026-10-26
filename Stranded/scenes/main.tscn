@@ -1,0 +1,22 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/water.gd" id="2"]
+[ext_resource type="PackedScene" path="res://scenes/world.tscn" id="3"]
+[ext_resource type="PackedScene" path="res://scenes/hud.tscn" id="4"]
+[ext_resource type="PackedScene" path="res://scenes/fader.tscn" id="5"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1")
+
+[node name="WaterLayer" type="CanvasLayer" parent="."]
+layer = -1
+
+[node name="Water" type="Node2D" parent="WaterLayer"]
+script = ExtResource("2")
+
+[node name="World" parent="." instance=ExtResource("3")]
+
+[node name="Hud" parent="." instance=ExtResource("4")]
+
+[node name="Fader" parent="." instance=ExtResource("5")]

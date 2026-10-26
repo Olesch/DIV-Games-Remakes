@@ -1,0 +1,24 @@
+{
+ "prg": "LOMMINGS.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Lommings.FNT",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/LOMMINGS.FNT",
+   "converted": "fnt/lommings"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "olegs\\Lommings.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/LOMMINGS.FPG",
+   "converted": "fpg/lommings"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FNT/Olegs/LOMMINGS.FNT",
+ "system_font": "fnt/system"
+}

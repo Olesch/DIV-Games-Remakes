@@ -1,0 +1,177 @@
+{
+ "microcosm": [
+  "Minicosm is Olesch's own remake of the game Microcosm.",
+  "The original's hidden cheats still work: hold S+U+P to make every Duk super, T+A+X for 10000 money, or A+R+M for the hardest meteors.",
+  "The second ship is advertised for 5000 and you need that much to buy it, but only 3000 is actually charged."
+ ],
+ "atoms": [
+  "A bomb removes only the atom itself: its neighbours keep their bonds pointing at the empty cell, waiting for a matching atom.",
+  "The 'fewer 4s' option uses a little dice trick, rand(3,13)/3, which makes four-bond atoms appear about 18% of the time instead of 25%.",
+  "Olesch wrote hiscore saving for both modes but commented it out; this version switches it back on as 'Rekord'."
+ ],
+ "castle": [
+  "The signature brick in the bottom-right corner of every room has a typo in Olesch's name, and he has no idea how it happened.",
+  "Holding Alt+Ctrl is a hidden cheat that lets the hero walk straight through closed trapdoors.",
+  "The Ork hero shoots arrows that have no graphic, so his shots fly at you invisibly.",
+  "Picking up the arrows a dead archer dropped clears the wrong map cell, so it can make an object next to them vanish. Olesch's own code comment from back then just says \"Arrows appear twice\"."
+ ],
+ "siege": [
+  "Siege is a clone of Siege by Fallen Angel Games.",
+  "The recipe code is headed 'DAS ZAUBERBUCH!' (the spell book), and the comments for the elephant and the golem both warn: 'He is big, watch out!'",
+  "A complete computer opponent is written in the code, but its single start line is commented out, so Siege is strictly two players."
+ ],
+ "s-type": [
+  "The original cheats work: hold O (once O+L+E+G, until Olesch shortened it) to max out every weapon and pile up lives, or hold A+L+E+X to summon extra enemy snakes.",
+  "Slot 10 of the buy line does nothing at all; you have to pass it to reach the companion pods at slot 11."
+ ],
+ "huhnshot": [
+  "Shooting the clock in the top-left corner ('Uhr abgeknallt!', clock shot down) gives 10 extra seconds and 100 points.",
+  "Destroying all the hills sets off an avalanche ('LAWINE!!') that drives eight more birds into the sky.",
+  "Find every bonus and you unlock a secret machine-gun mode: hold M+G and keep the mouse button down."
+ ],
+ "lommings": [
+  "A comment proudly calls O 'THE SUPER-BOOSTER-SPEED-KEY!!!' (five steps per frame), and holding G together with it is a cheat that wins the level instantly.",
+  "The + key makes lemmings come out slower and - makes them faster, the reverse of what you'd expect.",
+  "The nuke also hits lemmings that are already safe in the exit, turning them into dead ones, so your saved count can drop."
+ ],
+ "stranded": [
+  "You can craft an axe, a fishing rod and a hammer, but chopping, fishing and building were never written, so the tools do nothing.",
+  "There is no game over: at zero health the hero just looks dead and you can keep on playing.",
+  "The radar's hero marker had no graphic in the original, so you could never see yourself on the map; this version adds a red dot."
+ ],
+ "heatfighter": [
+  "Heatfighter was an attempt to remake the fighting game MindArms.",
+  "The title in the source reads 'Heatfighter: Coolfighter in 2d'.",
+  "The 'Template' fighter has no pictures for its special and low attacks, so it turns invisible while doing them, just like in the original."
+ ],
+ "miniship": [
+  "Quitting the original said goodbye with 'May the force be with you!', and the fastest energy-recharge setting is simply called 'Starwars'.",
+  "The planet's pull uses Newton's law of gravity; Olesch wrote the formula as a comment at the top of the code.",
+  "A mix-up in the computer players' aiming makes them thrust almost constantly, so their energy bars spend much of the game near zero."
+ ],
+ "gigamaze": [
+  "GigaMaze is a remake of the DOS game MegaMaze, which ran far too fast on newer PCs: Olesch and his brothers played it with a slowdown program, and Olesch wanted a better version, but it was never finished.",
+  "The top exit wraps to the bottom, but the bottom gap is much narrower, so a ship that leaves the wrong way ends up stuck in the wall for good.",
+  "The code has pickups for a red laser, a stunner, a nuke and 'Life+50' (which actually hands out weapon 5), but none of them ever fire anything."
+ ],
+ "canonball-riding": [
+  "Canonball Riding and Ship Duel were the first two games Olesch considered good and finished.",
+  "Your score is simply the number of cannonballs fired while you survive.",
+  "The cannons speed up from one shot every 2 seconds to one every few frames, and quitting once said 'Ride Canonballs again soon!'"
+ ],
+ "wormbattlewarriors": [
+  "The original was never finished: player 2's worms start with 500 action points as a test, yet player 2 never gets a turn.",
+  "Where combat should be, the code only has the comment 'Interaktion muss kommen!' (interaction has to come); the fighting in this version is new.",
+  "Worms that drop down a hole can never climb back up, because the way up is just an empty comment."
+ ],
+ "baller": [
+  "Each level carries its own physics settings, such as gravity, friction and the pull of the holes, hidden in the colours of the first few pixels of the level picture.",
+  "The losing message really says 'You LOOSE', a typo kept from the original.",
+  "A to-do list at the top of the code planned cannons, new terrains and a two-player mode that never arrived."
+ ],
+ "bunnyjumpers": [
+  "A commented-out loop in the code would have filled the screen with 10 extra bunnies at random spots.",
+  "A 'TODESCRASH' (death crash) block was meant to let one bunny stomp the other, but it never worked, so bunnies can only bounce off each other sideways.",
+  "Platforms only catch falling bunnies: a bunny on its way up jumps straight through them."
+ ],
+ "pingpong": [
+  "Instead of one ball there are 70, released in pairs, all bouncing at once.",
+  "The player who is behind gets 3 points per goal and the leader only 2, and the score is never shown: you just see the banner when someone is 500 ahead.",
+  "The code contains a computer player for the bats, but both bats are always set to human."
+ ],
+ "ship-duel": [
+  "Ship Duel and Canonball Riding were the first two games Olesch considered good and finished.",
+  "The settings screen has 14 values, from lives to the 'Spielerexplosionsdurchmesser' (player explosion diameter), and nothing stops you setting them to zero or below.",
+  "The explosion shot was meant to cost mana, but mana was never used: you only need to hold fire for about 2.5 seconds, and it destroys shots but never ships."
+ ],
+ "thursday-panzers": [
+  "The teams are uneven: the green computer tanks line up every 80 pixels, the red ones every 60, so red gets 27 tanks against green's 21.",
+  "At start the whole 1600x1200 battlefield is painted pixel by pixel with random shades of green, almost two million pixels.",
+  "A commented-out mode would have dropped a fresh tank for each team at a random spot every second."
+ ],
+ "sniper": [
+  "The header still credits Antonio Marchal's 1997 DIV tutorial, and the old tutorial's asteroid code is still in the file, unused.",
+  "All 17 snipers fire together and each one kicks the aim with recoil, so after every salvo the crosshair snaps to the top-left corner.",
+  "A minigun sniper and a grenade-launcher sniper with smoke exist in the code, but they are never put on the field."
+ ],
+ "hatsch1": [
+  "The longer you hold fire, the bigger and stronger the shot, and the harder its recoil throws your ship backwards.",
+  "In the original, ship 3 started exactly on top of ship 2; it now starts in the bottom-left corner.",
+  "Commented-out code would have made ships randomly clone themselves and big shots split in two."
+ ],
+ "runner": [
+  "Runner was written by Olesch together with Lukas Schw.",
+  "Pressing your keys before 'LOS' is a false start that freezes your runner for the entire race.",
+  "One second on the race clock is 25 frames instead of 24, so the timer runs about 4% slow."
+ ],
+ "decathlon": [
+  "Despite the name, only one of the ten events was ever made: the hammer throw.",
+  "The record that ships with the game, 1004, comes straight from Olesch's original save file.",
+  "If you never let go, the arm swings all the way round and the hammer is released by force."
+ ],
+ "ballkill": [
+  "Your only defence besides the pin is a hair dryer at the top of the screen that can blow rising balls back down.",
+  "Olesch's line to load the hiscore was commented out, so the original always started from 0; this version keeps your best score.",
+  "After Game Over the original quit to DOS with the message 'Nice playing'."
+ ],
+ "tron": [
+  "The game was built on top of DIV's asteroids tutorial: its header still names the tutorial, and the old asteroid code is left in, commented out.",
+  "One stray pixel hidden in the background at (673,190) kills any cycle that runs into it.",
+  "Commented-out code would have made a cycle speed up when riding close to a trail, a kind of slipstream."
+ ],
+ "fort": [
+  "The zig-zag enemies always start by flying to the right, wherever they appear, before turning towards the fort.",
+  "Normal enemies shrink as they get closer to the fort.",
+  "The original counted the damage to the fort in a hidden variable, so nothing on screen reacted to hits; the 'Schaden' counter is new."
+ ],
+ "rubik": [
+  "Despite the name, this is a flat 3x3 grid of numbers whose rows and columns rotate like the slices of a Rubik's cube.",
+  "Every game starts just one random move away from solved.",
+  "Solving the puzzle sets off a swarm of drifting, colour-changing dots that stays only as long as the numbers are in order."
+ ],
+ "panzers": [
+  "The original also painted the tanks with the same random greens as the lawn, making them almost invisible; this version shows them normally.",
+  "There is no damage: shells fly straight through tanks, and holding fire shoots one shell every frame, 24 per second.",
+  "Tanks can drive off the screen and never come back."
+ ],
+ "snake": [
+  "Snake started as DIV's 'Tutorial 4' by Daniel Navarro Medrano, which Olesch modified.",
+  "The tutorial allowed up to three apples at once; Olesch changed it to a single apple.",
+  "The original put the play field outside its frame graphic, so the worm started next to the frame; this version moves it inside."
+ ],
+ "kochkurve": [
+  "Key 2 says 'Koch' but draws the Sierpinski triangle again: the key-1 code was copied and the Koch curve routine was never finished.",
+  "The program loads a full-screen 'Mandelbrot' picture that is completely transparent, plus an overlay it never shows, both leftovers from the Mandelbrot program.",
+  "About 1,100 recursive steps start roughly 3,300 line-drawing processes, and all of them finish within one single frame."
+ ],
+ "rotators": [
+  "The program is still called 'Tutorial 1' and keeps the spaceship tutorial's comments, like 'Prints ship's graphic on screen', plus an unused screen-wrap routine.",
+  "A hidden 'Table' speed mode reads past the end of its 13-entry speed list, so the outer keys pick up speeds from unrelated settings and barely move.",
+  "Each new key starts moving before the one it hangs on has a position, so every pattern begins with a few stray dots in the top-left corner."
+ ],
+ "mandelbrot": [
+  "In preview mode the original calculates every point nine times, once for each pixel of its 3x3 block, and gets the same answer every time.",
+  "Keys 3 and 4 change a 'painting' setting that does nothing, because the colour formula that used it was commented out.",
+  "Every single point of the picture was its own little DIV process, and the maths runs on whole numbers only, so very deep zooms overflow into strange glitches."
+ ],
+ "castedit": [
+  "Before Castle, Olesch hard-coded every level straight into the game code; Castle was the first game he built a level editor for, itself written in DIV as well.",
+  "Every Castle room has a brick in the bottom-right corner with Olesch's signature on it, and the editor always draws it there.",
+  "Picking an empty slot in the item chooser painted an invisible junk number into the level, and the real Castle level files still contain 11 of these hidden values."
+ ],
+ "antjumper": [
+  "The ant's picture in the original is a 1024x768 image that is completely black.",
+  "A one-entry slip in the colour table (colour 1 instead of 15) means the ant never sees the white it paints, so it draws a straight line and walks off the screen.",
+  "Four extra ants were commented out, each with a direction 0-3, but that number would have set their scheduling priority instead, so all of them would have walked straight up."
+ ],
+ "balls": [
+  "Only the right-edge option of the spawn code releases four balls instead of one, so the tree always grows lopsided toward the right.",
+  "Each step is rounded down to whole tenths of a pixel, so balls can only fly in a few dozen directions and many early balls miss the centre and fly off the screen.",
+  "A 'Kill' flag is set on the line right after the loop ends, so it never runs: after a few minutes the original was quietly keeping thousands of frozen balls alive."
+ ],
+ "siedler": [
+  "The minimap in the corner is the game's actual memory: the program stores every settler's job in that image, one pixel per settler.",
+  "A misplaced bracket, Rand(0,250==0), means the planned 1-in-251 chance for workers to give up their job can never happen.",
+  "About 200 trees along the river are invisible: a line meant to forget trees on water erases the ground under them instead, so settlers can then walk on the river."
+ ]
+}

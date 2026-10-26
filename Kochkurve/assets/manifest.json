@@ -1,0 +1,24 @@
+{
+ "prg": "KOCHKURV.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_map",
+   "literal": "olegs\\mandbrot.map",
+   "kind": "map",
+   "resolved": "MAP/MANDBROT.MAP",
+   "converted": "map/mandbrot"
+  },
+  {
+   "call": "load_map",
+   "literal": "olegs\\over.map",
+   "kind": "map",
+   "resolved": "MAP/OVER.MAP",
+   "converted": "map/over"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "MAP/MANDBROT.MAP",
+ "system_font": "fnt/system"
+}

@@ -1,0 +1,94 @@
+{
+ "prg": "CASTLE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Castle.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/CASTLE.FNT",
+   "converted": "fnt/castle"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "olegs/Castle.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/CASTLE.FPG",
+   "converted": "fpg/castle"
+  },
+  {
+   "call": "load",
+   "literal": "saves/Level1.dat",
+   "kind": "dat",
+   "resolved": "Saves/LEVEL1.DAT",
+   "converted": "dat/level1.json"
+  },
+  {
+   "call": "load",
+   "literal": "saves/Level2.dat",
+   "kind": "dat",
+   "resolved": "Saves/LEVEL2.DAT",
+   "converted": "dat/level2.json"
+  },
+  {
+   "call": "load",
+   "literal": "Saves\\castle1.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE1.DAT",
+   "converted": "dat/castle1.json"
+  },
+  {
+   "call": "load",
+   "literal": "Saves\\castle2.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE2.DAT",
+   "converted": "dat/castle2.json"
+  },
+  {
+   "call": "load",
+   "literal": "Saves\\castle3.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE3.DAT",
+   "converted": "dat/castle3.json"
+  },
+  {
+   "call": "load",
+   "literal": "Saves\\castle4.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE4.DAT",
+   "converted": "dat/castle4.json"
+  },
+  {
+   "call": "save",
+   "literal": "Saves\\castle1.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE1.DAT",
+   "converted": "dat/castle1.json"
+  },
+  {
+   "call": "save",
+   "literal": "Saves\\castle2.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE2.DAT",
+   "converted": "dat/castle2.json"
+  },
+  {
+   "call": "save",
+   "literal": "Saves\\castle3.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE3.DAT",
+   "converted": "dat/castle3.json"
+  },
+  {
+   "call": "save",
+   "literal": "Saves\\castle4.dat",
+   "kind": "dat",
+   "resolved": "Saves/CASTLE4.DAT",
+   "converted": "dat/castle4.json"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FNT/Olegs/CASTLE.FNT",
+ "system_font": "fnt/system"
+}

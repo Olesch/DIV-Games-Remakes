@@ -1,0 +1,27 @@
+class_name Scenes
+extends RefCounted
+## All entity scenes in one place (avoids circular preloads between entity scripts).
+
+const SHIP := preload("res://scenes/ship.tscn")
+const COMPAIN := preload("res://scenes/compain.tscn")
+const CENTER_POINT := preload("res://scenes/center_point.tscn")
+const BUY_CHOOSER := preload("res://scenes/buy_chooser.tscn")
+const SHOT := preload("res://scenes/shot.tscn")
+const CENTER_MISSILE := preload("res://scenes/center_missile.tscn")
+const BOING_LASER := preload("res://scenes/boing_laser.tscn")
+const FLAME_SHOT := preload("res://scenes/flame_shot.tscn")
+const CHARGER := preload("res://scenes/charger.tscn")
+const GHOST := preload("res://scenes/ghost.tscn")
+const EXPLOSION := preload("res://scenes/explosion.tscn")
+const PICKUP := preload("res://scenes/pickup.tscn")
+const SNAKE := preload("res://scenes/snake.tscn")
+const SNAKE_CANNON := preload("res://scenes/snake_cannon.tscn")
+const ENEMY_SHOT := preload("res://scenes/enemy_shot.tscn")
+const BOOMER := preload("res://scenes/boomer.tscn")
+const JUMP_SHOOTER := preload("res://scenes/jump_shooter.tscn")
+const BOMB := preload("res://scenes/bomb.tscn")
+const BLAST := preload("res://scenes/blast.tscn")
+const BOSS := preload("res://scenes/boss.tscn")
+const BOSS_SHIELD := preload("res://scenes/boss_shield.tscn")
+const BOSS_CANNON := preload("res://scenes/boss_cannon.tscn")
+const BOSS_LASER := preload("res://scenes/boss_laser.tscn")

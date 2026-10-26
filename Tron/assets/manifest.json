@@ -1,0 +1,22 @@
+{
+ "prg": "OLTRON.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\OLTron.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/OLTRON.FPG",
+   "converted": "fpg/oltron"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Space.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/OLTRON.FPG",
+ "system_font": "fnt/system"
+}

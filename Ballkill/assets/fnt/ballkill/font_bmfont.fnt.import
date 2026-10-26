@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://dkry2yademc3o"
+path="res://.godot/imported/font_bmfont.fnt-caf731047f65d0b527f0b01d2aa20378.fontdata"
+
+[deps]
+
+source_file="res://assets/fnt/ballkill/font_bmfont.fnt"
+dest_files=["res://.godot/imported/font_bmfont.fnt-caf731047f65d0b527f0b01d2aa20378.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

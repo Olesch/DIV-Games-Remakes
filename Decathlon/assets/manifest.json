@@ -1,0 +1,31 @@
+{
+ "prg": "DECATLON.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load",
+   "literal": "sav\\decatlon.dat",
+   "kind": "dat",
+   "resolved": "DAT/DECATLON.DAT",
+   "converted": "dat/decatlon.json"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Decatlon.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/DECATLON.FPG",
+   "converted": "fpg/decatlon"
+  },
+  {
+   "call": "save",
+   "literal": "sav\\decatlon.dat",
+   "kind": "dat",
+   "resolved": "DAT/DECATLON.DAT",
+   "converted": "dat/decatlon.json"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/DECATLON.FPG",
+ "system_font": "fnt/system"
+}

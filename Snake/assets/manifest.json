@@ -1,0 +1,17 @@
+{
+ "prg": "SNAKE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "tutorial\\tutor4.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/TUTORIAL/TUTOR4.FPG",
+   "converted": "fpg/tutor4"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/TUTORIAL/TUTOR4.FPG",
+ "system_font": "fnt/system"
+}

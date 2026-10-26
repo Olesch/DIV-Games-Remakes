@@ -1,0 +1,24 @@
+{
+ "prg": "GIGAMAZE.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Gigamaze.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/GIGAMAZE.FPG",
+   "converted": "fpg/gigamaze"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Gigamaze.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/GIGAMAZE.FNT",
+   "converted": "fnt/gigamaze"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/GIGAMAZE.FPG",
+ "system_font": "fnt/system"
+}

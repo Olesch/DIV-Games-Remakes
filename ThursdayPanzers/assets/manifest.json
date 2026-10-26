@@ -1,0 +1,24 @@
+{
+ "prg": "THURPANZ.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Thurpanz.FNT",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/THURPANZ.FNT",
+   "converted": "fnt/thurpanz"
+  },
+  {
+   "call": "load_fpg",
+   "literal": "olegs\\Thurpanz.FPG",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/THURPANZ.FPG",
+   "converted": "fpg/thurpanz"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FNT/Olegs/THURPANZ.FNT",
+ "system_font": "fnt/system"
+}

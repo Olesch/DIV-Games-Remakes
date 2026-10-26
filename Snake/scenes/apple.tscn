@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://scripts/apple.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/fpg/tutor4/3.png" id="2"]
+
+[node name="Apple" type="Sprite2D"]
+texture = ExtResource("2")
+centered = false
+script = ExtResource("1")

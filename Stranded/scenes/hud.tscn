@@ -1,0 +1,62 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/hud.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/fpg/stranded/2.png" id="2"]
+[ext_resource type="Texture2D" path="res://assets/fpg/stranded/3.png" id="3"]
+[ext_resource type="Texture2D" path="res://assets/fpg/stranded/4.png" id="4"]
+[ext_resource type="Texture2D" path="res://assets/fpg/stranded/5.png" id="5"]
+[ext_resource type="Script" path="res://scripts/pixel_label.gd" id="6"]
+
+[node name="Hud" type="CanvasLayer"]
+layer = 2
+script = ExtResource("1")
+
+[node name="Radar" type="Sprite2D" parent="."]
+centered = false
+position = Vector2(550, 350)
+
+[node name="HeroDot" type="ColorRect" parent="."]
+offset_right = 3.0
+offset_bottom = 3.0
+color = Color(1, 0, 0, 1)
+
+[node name="Sun" type="Sprite2D" parent="."]
+position = Vector2(551, 349)
+texture = ExtResource("5")
+centered = false
+offset = Vector2(0, -15)
+
+[node name="BarThirst" type="Sprite2D" parent="."]
+position = Vector2(-50, 560)
+texture = ExtResource("3")
+centered = false
+offset = Vector2(0, -19)
+
+[node name="BarHunger" type="Sprite2D" parent="."]
+position = Vector2(-50, 580)
+texture = ExtResource("2")
+centered = false
+offset = Vector2(0, -19)
+
+[node name="BarHealth" type="Sprite2D" parent="."]
+position = Vector2(-50, 600)
+texture = ExtResource("4")
+centered = false
+offset = Vector2(0, -19)
+
+[node name="Lists" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Arrow" type="Label" parent="."]
+offset_left = 700.0
+offset_top = 10.0
+offset_right = 700.0
+offset_bottom = 10.0
+text = "-->"
+script = ExtResource("6")
+align_code = 6
+
+[node name="Popups" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0

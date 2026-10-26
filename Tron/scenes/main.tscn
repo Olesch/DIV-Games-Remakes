@@ -1,0 +1,58 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://scripts/arena.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/light_cycle.tscn" id="2"]
+[ext_resource type="Texture2D" path="res://assets/fpg/oltron/3.png" id="3"]
+[ext_resource type="FontFile" path="res://assets/fnt/system/font_bmfont.fnt" id="4"]
+
+[node name="Arena" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Background" type="Sprite2D" parent="."]
+centered = false
+
+[node name="CycleOne" parent="." instance=ExtResource("2")]
+player_name = "Red"
+left_action = &"p1_left"
+right_action = &"p1_right"
+trail_index = 22
+start_heading = 2
+start_cell = Vector2i(100, 100)
+
+[node name="CycleTwo" parent="." instance=ExtResource("2")]
+player_name = "Blue"
+left_action = &"p2_left"
+right_action = &"p2_right"
+trail_index = 54
+start_heading = 4
+start_cell = Vector2i(924, 668)
+
+[node name="Sprite" parent="CycleTwo" index="0"]
+texture = ExtResource("3")
+
+[node name="Hud" type="CanvasLayer" parent="."]
+
+[node name="Message" type="Label" parent="Hud"]
+visible = false
+offset_left = 0.0
+offset_top = 330.0
+offset_right = 341.0
+offset_bottom = 366.0
+scale = Vector2(3, 3)
+theme_override_fonts/font = ExtResource("4")
+theme_override_font_sizes/font_size = 8
+horizontal_alignment = 1
+vertical_alignment = 1
+text = "Red wins!"
+
+[node name="Hint" type="Label" parent="Hud"]
+visible = false
+offset_left = 0.0
+offset_top = 420.0
+offset_right = 512.0
+offset_bottom = 440.0
+scale = Vector2(2, 2)
+theme_override_fonts/font = ExtResource("4")
+theme_override_font_sizes/font_size = 8
+horizontal_alignment = 1
+text = "Enter / Space: new round    Esc: quit"

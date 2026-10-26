@@ -1,0 +1,22 @@
+{
+ "prg": "BUNYJUMP.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\BunyJump.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/BUNYJUMP.FPG",
+   "converted": "fpg/bunyjump"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Mini2.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/BUNYJUMP.FPG",
+ "system_font": "fnt/system"
+}

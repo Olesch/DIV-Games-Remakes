@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://clga8vpm713tm"
+path="res://.godot/imported/font_bmfont.fnt-fd2f1d88d2f8b73c78068f47fef05bdc.fontdata"
+
+[deps]
+
+source_file="res://assets/fnt/atoms/font_bmfont.fnt"
+dest_files=["res://.godot/imported/font_bmfont.fnt-fd2f1d88d2f8b73c78068f47fef05bdc.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

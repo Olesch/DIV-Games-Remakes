@@ -1,0 +1,37 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/menu.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/pixel_label.gd" id="2"]
+
+[node name="Menu" type="Node2D"]
+script = ExtResource("1")
+
+[node name="List" type="Node2D" parent="."]
+scale = Vector2(2, 2)
+
+[node name="Title" type="Label" parent="List"]
+offset_left = 160.0
+offset_top = 30.0
+offset_right = 160.0
+offset_bottom = 30.0
+text = "B A L L E R"
+script = ExtResource("2")
+align_code = 1
+
+[node name="Help" type="Label" parent="List"]
+offset_left = 160.0
+offset_top = 215.0
+offset_right = 160.0
+offset_bottom = 215.0
+text = "Up/Down: choose   Enter: play"
+script = ExtResource("2")
+align_code = 1
+
+[node name="Help2" type="Label" parent="List"]
+offset_left = 160.0
+offset_top = 227.0
+offset_right = 160.0
+offset_bottom = 227.0
+text = "In game: arrows steer, R recalls"
+script = ExtResource("2")
+align_code = 1

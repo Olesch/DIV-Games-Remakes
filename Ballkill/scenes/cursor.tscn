@@ -1,0 +1,13 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/cursor.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/fpg/ballkill/3.png" id="2"]
+
+[node name="CursorLayer" type="CanvasLayer"]
+layer = 2
+
+[node name="Pin" type="Sprite2D" parent="."]
+physics_interpolation_mode = 2
+texture = ExtResource("2")
+centered = false
+script = ExtResource("1")

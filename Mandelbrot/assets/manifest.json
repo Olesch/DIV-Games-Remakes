@@ -1,0 +1,31 @@
+{
+ "prg": "MANDBROT.PRG",
+ "div_dir": "D:\\Prog\\Godot\\DivRemake\\DIV",
+ "resources": [
+  {
+   "call": "load_pal",
+   "literal": "Mandbrot.pal",
+   "kind": "pal",
+   "resolved": "PAL\\MANDBROT.PAL",
+   "converted": "pal/mandbrot"
+  },
+  {
+   "call": "load_map",
+   "literal": "olegs\\mandbrot.map",
+   "kind": "map",
+   "resolved": "MAP\\MANDBROT.MAP",
+   "converted": "map/mandbrot"
+  },
+  {
+   "call": "load_map",
+   "literal": "olegs\\over.map",
+   "kind": "map",
+   "resolved": "MAP\\OVER.MAP",
+   "converted": "map/over"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "PAL\\MANDBROT.PAL",
+ "system_font": "fnt/system"
+}

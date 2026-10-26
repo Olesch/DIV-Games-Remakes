@@ -1,0 +1,48 @@
+[gd_scene load_steps=6 format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+[ext_resource type="Script" path="res://scripts/trail_canvas.gd" id="2"]
+[ext_resource type="Script" path="res://scripts/meter.gd" id="3"]
+[ext_resource type="Script" path="res://scripts/hud.gd" id="4"]
+[ext_resource type="Script" path="res://scripts/pixel_label.gd" id="5"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1")
+
+[node name="TrailCanvas" type="Sprite2D" parent="."]
+z_index = -100
+script = ExtResource("2")
+
+[node name="Ghosts" type="Node2D" parent="."]
+
+[node name="Meter" type="Node" parent="."]
+script = ExtResource("3")
+
+[node name="Arms" type="Node2D" parent="."]
+
+[node name="HUD" type="CanvasLayer" parent="."]
+script = ExtResource("4")
+
+[node name="MovementLabel" type="Label" parent="HUD"]
+offset_left = 200.0
+offset_top = 100.0
+script = ExtResource("5")
+align_code = 4
+
+[node name="DistanceLabel" type="Label" parent="HUD"]
+offset_left = 400.0
+offset_top = 200.0
+script = ExtResource("5")
+align_code = 4
+
+[node name="HiscoreLabel" type="Label" parent="HUD"]
+offset_left = 600.0
+offset_top = 100.0
+script = ExtResource("5")
+align_code = 4
+
+[node name="Hint" type="Label" parent="HUD"]
+offset_left = 8.0
+offset_top = 592.0
+script = ExtResource("5")
+align_code = 6

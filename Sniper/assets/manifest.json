@@ -1,0 +1,22 @@
+{
+ "prg": "SNIPGAME.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\SnipGame.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/SNIPGAME.FPG",
+   "converted": "fpg/snipgame"
+  }
+ ],
+ "missing": [],
+ "commented_out": [
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Space.fnt"
+  }
+ ],
+ "palette_from": "FPG/Olegs/SNIPGAME.FPG",
+ "system_font": "fnt/system"
+}

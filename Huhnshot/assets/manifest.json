@@ -1,0 +1,24 @@
+{
+ "prg": "HUHNSHOT.PRG",
+ "div_dir": "D:/Prog/Godot/DivRemake/DIV",
+ "resources": [
+  {
+   "call": "load_fpg",
+   "literal": "Olegs\\Huhn.fpg",
+   "kind": "fpg",
+   "resolved": "FPG/Olegs/HUHN.FPG",
+   "converted": "fpg/huhn"
+  },
+  {
+   "call": "load_fnt",
+   "literal": "Olegs\\Huhn.fnt",
+   "kind": "fnt",
+   "resolved": "FNT/Olegs/HUHN.FNT",
+   "converted": "fnt/huhn"
+  }
+ ],
+ "missing": [],
+ "commented_out": [],
+ "palette_from": "FPG/Olegs/HUHN.FPG",
+ "system_font": "fnt/system"
+}
