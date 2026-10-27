@@ -39,6 +39,7 @@ PAGE = """<!doctype html>
   p.src a {{ color: #ffd000; }}
   p.note {{ border: 1px solid #ffd000; border-radius: 8px; padding: 8px 12px; color: #ffd000; }}
   p.small {{ color: #888; font-size: .9em; }}
+  p.small a {{ color: #ffd000; }}
   h2 {{ color: #ffd000; margin: 40px 0 0; }}
   h2 + p {{ color: #888; margin: 4px 0 0; }}
   nav {{ border: 1px solid #333; border-radius: 8px; padding: 4px 16px 12px; margin: 16px 0; }}
@@ -66,6 +67,7 @@ PAGE = """<!doctype html>
   <p>If you stumbled upon this page by accident and also want to port your own DIV games to the web, feel free to use the <a href="src/DIV_PORTING_GUIDE.txt">DIV to Godot porting guide</a> Claude worked from. The converter for DIV graphics and fonts and everything else is in the <a href="https://github.com/Olesch/DIV-Games-Remakes">GitHub</a> repository.</p>
 {sections}
   <p class="small">Needs a desktop browser with mouse and keyboard.</p>
+  <p class="small">Games, code and website are under the <a href="https://github.com/Olesch/DIV-Games-Remakes/blob/main/LICENSE">MIT License</a>. Made with <a href="https://godotengine.org/license">Godot Engine</a> (MIT License, &copy; Godot Engine contributors, Juan Linietsky, Ariel Manzur); see <a href="https://github.com/Olesch/DIV-Games-Remakes/blob/main/THIRD_PARTY.md">third-party notices</a>.</p>
 </main>
 </body>
 </html>

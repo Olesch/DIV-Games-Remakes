@@ -126,3 +126,9 @@ transparently and Godot's loader sees a normal `.wasm`.
 `.godot\` caches, `_web\dist\`, `.wrangler\`, the web exports in `_web\public\<slug>\` and the generated
 `_web\public\index.html`, `public\src\`, `public\img\div-games-studio.png` (all rebuilt by the scripts above),
 and the DIV Game Studio install itself (see `.gitignore`).
+
+## License
+
+Everything in this repository (the Godot projects, the original DIV files in `DIV\`, the porting guide
+and the website) is under the [MIT License](LICENSE). The games use Godot Engine, also MIT; its notice
+is in [THIRD_PARTY.md](THIRD_PARTY.md).
